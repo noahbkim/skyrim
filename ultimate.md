@@ -351,6 +351,7 @@ I then installed that mod from my local file system. Make sure to follow the act
 
 ## Lanterns
 
+* [Campfire](https://www.nexusmods.com/skyrim/mods/64798/) - adds camping and camping equipment.
 * [Wearable Lanterns](https://www.nexusmods.com/skyrim/mods/17416/) - added as an afterthought because I saw the HDT mod. Adds lanterns that illuminate the area around you.
 * [Wearable Lanterns SMIM Patch](https://www.nexusmods.com/skyrim/mods/34535/) - SMIM compatibility.
 
