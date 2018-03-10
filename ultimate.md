@@ -395,7 +395,6 @@ I would recommend queueing a bunch of the listed mods in advance so they downloa
 - [ ] [Fores New Idles in Skyrim](https://www.nexusmods.com/skyrim/mods/11811) - idle animations.
 - [ ] [Realistic Ragdolls and Force](https://www.nexusmods.com/skyrim/mods/601) - ragdoll movement.
 - [ ] [XP32 Maximum Skeleton Extended](https://www.nexusmods.com/skyrim/mods/68000) - skeleton improvements.
-- [ ] [Dual Sheath Redux](https://www.nexusmods.com/skyrim/mods/34155) - sheaths left-hand weapon.
 - [ ] [Sexy Move](https://www.nexusmods.com/skyrim/mods/54521) - changes female movement.
 
 ## NPCs
@@ -423,8 +422,6 @@ I would recommend queueing a bunch of the listed mods in advance so they downloa
 - [ ] [Inconsequential NPCs](https://www.nexusmods.com/skyrim/mods/36334) - adds a bunch of new NPCs.
 - [ ] [Run For Your Lives](https://www.nexusmods.com/skyrim/mods/23906) - ordinary citizens hide during dragon attacks.
 - [ ] [Fuz Ro D-oh](https://www.nexusmods.com/skyrim/mods/14884) - adds voice animation for silent dialogue.
-
-## Audio
 
 ## Gameplay
 - [ ] [Open Cities](https://www.nexusmods.com/skyrim/mods/8058) - makes major cities part of Skyrim.
@@ -461,5 +458,6 @@ I would recommend queueing a bunch of the listed mods in advance so they downloa
 - [ ] [Immersive Creatures](https://www.nexusmods.com/skyrim/mods/24913) - adds many new creatures.
 - [ ] [Hunting in Skyrim](https://www.nexusmods.com/skyrim/mods/18866) - completely new hunting system.
 
-## Patches
+## Install Last
+- [ ] [Dual Sheath Redux](https://www.nexusmods.com/skyrim/mods/34155) - sheaths left-hand weapon.
 - [ ] [Open Cities Patches](https://www.nexusmods.com/skyrim/mods/59937) - get Interesting NPCs, Inconsequential NPCs, Legendary patch, Breezhome Fully Upgradable 
