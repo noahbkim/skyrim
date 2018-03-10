@@ -322,11 +322,16 @@ I would recommend queueing a bunch of the listed mods in advance so they downloa
 - [ ] [Windhelm Enhanced - 500 Companions Wall 8k HD Retexture](http://www.nexusmods.com/skyrim/mods/74942) -
 - [ ] [Skyrim Landscape Overhaul - Stone Walls](http://www.nexusmods.com/skyrim/mods/76359) - mesh and texture replacer for the freestanding stone walls. 
 - [ ] [Nightingale Pride - Bow and Blade Reincarnation](http://www.nexusmods.com/skyrim/mods/33704) - improved textures for nightingale bow and blade.
+- [ ] [Nightingale Prime](https://www.nexusmods.com/skyrim/mods/28899) - makes nightingale armor look better.
+- [ ] [Daedric Armor and Weapons](https://www.nexusmods.com/skyrim/mods/3104) - improves daedric textures.
 - [ ] [Frankly HD Silver Sword](http://www.nexusmods.com/skyrim/mods/29563) - well created silver sword.
 - [ ] [Lockpicking Interface Redone](http://www.nexusmods.com/skyrim/mods/63279) - better lock picking.
 - [ ] [Frankly HD Stormcloak and City Guards](http://www.nexusmods.com/skyrim/mods/42404) - retexture for guards.
 - [ ] [Embers HD](http://www.nexusmods.com/skyrim/mods/62425) - meshes, textures, and effects for embers from fire. 
 - [ ] [High Poly Project](http://www.nexusmods.com/skyrim/mods/76439) - model improvements similar to SMIM.
+- [ ] [Footprints](https://www.nexusmods.com/skyrim/mods/22745) - adds player footprints on snow.
+- [ ] [Splash of Rain](https://www.nexusmods.com/skyrim/mods/37873) - adds rain splash effects.
+
 
 ## DynDOLOD
 
@@ -372,13 +377,23 @@ I would recommend queueing a bunch of the listed mods in advance so they downloa
 - [ ] [HDT Equipment](http://www.nexusmods.com/skyrim/mods/57408) - moving slings and sheathes. Add the lanterns as well.
 
 ## Odds and Ends
-
-- [ ] [Fores New Idles in Skyrim](https://www.nexusmods.com/skyrim/mods/11811) - idle animations.
 - [ ] [NetImmerse Override](https://www.nexusmods.com/skyrim/mods/37481) - runtime shader overrides.
+- [ ] [Double Cursor Fix](https://www.nexusmods.com/skyrim/mods/36125) - fixes double cursor when alt-tabbing.
+- [ ] [Skyrim Project Optimiation](https://www.nexusmods.com/skyrim/mods/32505) - FPS boost, **get No Homes Full**.
+- [ ] [Skyrim Performance PLUS](https://www.nexusmods.com/skyrim/mods/6387) - more FPS boost.
+- [ ] [HIALGOBOOST GPU Upgrade](https://www.nexusmods.com/skyrim/mods/15123) - even more FPS boost.
+- [ ] [Multiple Floors Sandboxing](https://www.nexusmods.com/skyrim/mods/57376) - changes sandboxes so NPCs move floors.
+- [ ] [Better Dialogue Controls](https://www.nexusmods.com/skyrim/mods/27371) - improves selecting dialogue options.
+- [ ] [Better MessageBox Controls](https://www.nexusmods.com/skyrim/mods/28170) - allows keyboard controls in message boxes.
+
+## Animation
+- [ ] [Fores New Idles in Skyrim](https://www.nexusmods.com/skyrim/mods/11811) - idle animations.
 - [ ] [Realistic Ragdolls and Force](https://www.nexusmods.com/skyrim/mods/601) - ragdoll movement.
 - [ ] [XP32 Maximum Skeleton Extended](https://www.nexusmods.com/skyrim/mods/68000) - skeleton improvements.
+- [ ] [Dual Sheath Redux](https://www.nexusmods.com/skyrim/mods/34155) - sheaths left-hand weapon.
+- [ ] [Sexy Move](https://www.nexusmods.com/skyrim/mods/54521) - changes female movement.
 
-## NPC's
+## NPCs
 
 - [ ] [Bijin Warmaidens](http://www.nexusmods.com/skyrim/mods/40038) - adds an array of female Bijin characters.
 - [ ] [Bijin Wives](http://www.nexusmods.com/skyrim/mods/63473) - permits marriage to Bijin women.
@@ -392,7 +407,34 @@ I would recommend queueing a bunch of the listed mods in advance so they downloa
 - [ ] [The Men of Winter](http://www.nexusmods.com/skyrim/mods/74376) - more well-done men models.
 - [ ] [Vilkas and Farkas by Netherwalk](http://www.nexusmods.com/skyrim/mods/21540) - two male followers.
 - [ ] [TDN Improved Lucien - Spectral Assassin Replacer](http://www.nexusmods.com/skyrim/mods/62835) - replacement for Lucien.
-- [ ] [Inhabitants of Skyrim - NPC Overhaul](http://www.nexusmods.com/skyrim/mods/23755) - make many NPC's more attractive.
 - [ ] [Improved Bards](http://www.nexusmods.com/skyrim/mods/56599) - changes appearance of bards.
 - [ ] [The College of Winterhold - NPC Improvement](http://www.nexusmods.com/skyrim/mods/67359) - college of Winterhold NPC improvements.
+- [ ] [Clothing and Clutter Fixes](https://www.nexusmods.com/skyrim/mods/43053) - fixes clothes bugs.
+- [ ] [Ultimate Follower Overhaul](https://www.nexusmods.com/skyrim/mods/14037) - improves follower system.
+- [ ] [Marriable Serana](https://www.nexusmods.com/skyrim/mods/28685) - allows marrying Serana.
+- [ ] [Immersive Patrols](https://www.nexusmods.com/skyrim/mods/12977) - adds patrols around Skyrim.
+- [ ] [Interesting NPCs](https://www.nexusmods.com/skyrim/mods/8429) - adds dialogue to various NPCs.
+- [ ] [Guard Dialogue Overhaul](https://www.nexusmods.com/skyrim/mods/23390) - gives guards new dialogue.
+- [ ] [Inconsequential NPCs](https://www.nexusmods.com/skyrim/mods/36334) - adds a bunch of new NPCs.
 
+## Audio
+
+## Gameplay
+- [ ] [Open Cities](https://www.nexusmods.com/skyrim/mods/8058) - makes major cities part of Skyrim.
+- [ ] [Sneak Tools](https://www.nexusmods.com/skyrim/mods/19447) - stealth overhaul.
+- [ ] [Lock Overhaul](https://www.nexusmods.com/skyrim/mods/29979) - better lockpicking.
+- [ ] [Auto Unequip Ammo](https://www.nexusmods.com/skyrim/mods/10753) - unequips quiver when out of combat.
+- [ ] [Deadly Dragons](https://www.nexusmods.com/skyrim/mods/3829) - customize difficulty of dragon fights.
+- [ ] [Dibella's Compulsion](https://www.nexusmods.com/skyrim/mods/30072) - adds spell to remove clothing.
+- [ ] [Breezehome FullyUpgradeable](https://www.nexusmods.com/skyrim/mods/11158) - greatly expands Breezehome.
+- [ ] [Improved Dragon Shout](https://www.nexusmods.com/skyrim/mods/14353) - tweaks all dragon shouts.
+- [ ] [Rich Merchants](https://www.nexusmods.com/skyrim/mods/769) - gives more gold to merchants.
+- [ ] [Trade and Barter](https://www.nexusmods.com/skyrim/mods/34612) - overhauls trading system.
+
+## Wildlife
+- [ ] [Hunting in Skyrim](https://www.nexusmods.com/skyrim/mods/18866) - completely new hunting system.
+- [ ] [Birds of Skyrim](https://www.nexusmods.com/skyrim/mods/17723) - adds many new birds.
+
+## Patches
+- [ ] [Birds of Skyrim Patches](https://www.nexusmods.com/skyrim/mods/72833) - 
+- [ ] [Open Cities Patches](https://www.nexusmods.com/skyrim/mods/59937) - 
