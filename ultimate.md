@@ -95,63 +95,63 @@ I would recommend queueing a bunch of the listed mods in advance so they downloa
 
 ## Graphics and Meshes
 
-- [Optimized Vanilla Textures](http://www.nexusmods.com/skyrim/mods/57353/?) - better and faster vanilla with various modifications by the authors. 
-After installing for Nexus Mod Manager, run the `Texture Install.vbs` file in your `[skyrim root]/Data` folder.
-- [Ruins Clutter Improved](http://www.nexusmods.com/skyrim/mods/14227/?) - better meshes for environmental ruins.
-- [Ultimate HD Fire Effects](http://www.nexusmods.com/skyrim/mods/28642/?) - better looking fire.
-- [HD Enhanced Terrain](http://www.nexusmods.com/skyrim/mods/29782/?) - higher resolution textures and meshes for terrain.
-- [Static Mesh Improvement Mod](http://www.nexusmods.com/skyrim/mods/8655/?) - better meshes for tons of static objects in the world.
-- [Skyrim HD - 2K Textures](http://www.nexusmods.com/skyrim/mods/607/?) - a complete set of 2K textures.
-- [Vivid Landscapes - All in One](http://www.nexusmods.com/skyrim/mods/49344) - unified mod for more attractive landscapes.
-- [aMidianBorn Caves and Mines](http://www.nexusmods.com/skyrim/mods/39190) - better cave and mine textures and meshes.
-- [4k Parallax Mines by Pfuscher](http://www.nexusmods.com/skyrim/mods/58242) - parallax texturing for mines.
-- [Parallax Bridges by Pfuscher](http://www.nexusmods.com/skyrim/mods/57805) - parallax texturing for bridges.
-- [Real Roads for Skyrim](https://www.nexusmods.com/skyrim/mods/55518) - better looking roads.
-- [Skyrim Flora Overhaul](http://www.nexusmods.com/skyrim/mods/141) - better plant meshes and textures.
-- [Forest Bark](http://www.nexusmods.com/skyrim/mods/64192) - a companion mod to the flora overhaul with more attractive tree bark.
-- [Skyrim Bigger Trees](http://www.nexusmods.com/skyrim/mods/17168/?) - a mod that introduces taller trees.
-- [4K Parallax Treebark](http://www.nexusmods.com/skyrim/mods/61875) - better tree bark with parallax.
-- [Realistic Aspen Trees 4k](http://www.nexusmods.com/skyrim/mods/51069/?) - more realistic Aspen trees.
-- [4K Parallax Treebark Aspen Patch](http://www.nexusmods.com/skyrim/ajax/downloadfile?id=1000144755) - a patch that accommodates Aspen trees.
-- [Verdant - A Skyrim Grass Plugin](http://www.nexusmods.com/skyrim/mods/60220) - better and more dense grass. 
-Requires you to modify your `[skyrim data]/Skyrim.ini` to add `iMaxGrassTypesPerTexture=15` and `iMinGrassSize=70`
-- [Verdant No Road Water Grass and Landscape Edits](http://www.nexusmods.com/skyrim/mods/80656/?) - a set of Verdant tweaks.
-- [High Definition Ivy](http://www.nexusmods.com/skyrim/mods/30971) - better ivy textures.
-- [Replacement Ivy](http://www.nexusmods.com/skyrim/mods/1878) - better ivy textures on existing models.
-- [RUGNAROK](http://www.nexusmods.com/skyrim/mods/64830) - nicer rug textures.
-- [Realistic Water Two](http://www.nexusmods.com/skyrim/mods/41076) - better water textures.
-- [Watercolor for ENB and Realistic Water Two](http://www.nexusmods.com/skyrim/mods/48938) - adds water color and sun scattering.
-- [Realistic Water Two ENB Textures](http://www.nexusmods.com/skyrim/ajax/downloadfile?id=1000081559) - water textures for the ENB.
-- [Transparent wave spray Retexture by Pfuscher](http://www.nexusmods.com/skyrim/mods/59547) - improved shoreline water spray.
-- [aMidianBorn Landscape](http://www.nexusmods.com/skyrim/mods/37865) - better landscape meshes.
-- [Solstheim landscape and furniture](http://www.nexusmods.com/skyrim/mods/31591) - better meshes and textures for furniture in Solstheim.
-- [aMidianBorn Solstheim Landscape](http://www.nexusmods.com/skyrim/mods/50013) - better textures for Solstheim landscape.
+* [ ] [Optimized Vanilla Textures](http://www.nexusmods.com/skyrim/mods/57353/?) - better and faster vanilla textures.
+      After installing for Nexus Mod Manager, run the `Texture Install.vbs` file in your `[skyrim root]/Data` folder.
+* [ ] [Ruins Clutter Improved](http://www.nexusmods.com/skyrim/mods/14227/?) - better meshes for environmental ruins.
+* [ ] [Ultimate HD Fire Effects](http://www.nexusmods.com/skyrim/mods/28642/?) - better looking fire.
+* [ ] [HD Enhanced Terrain](http://www.nexusmods.com/skyrim/mods/29782/?) - higher resolution textures and meshes for terrain.
+* [ ] [Static Mesh Improvement Mod](http://www.nexusmods.com/skyrim/mods/8655/?) - better meshes for tons of static objects in the world.
+* [ ] [Skyrim HD - 2K Textures](http://www.nexusmods.com/skyrim/mods/607/?) - a complete set of 2K textures.
+* [ ] [Vivid Landscapes - All in One](http://www.nexusmods.com/skyrim/mods/49344) - unified mod for more attractive landscapes.
+* [ ] [aMidianBorn Caves and Mines](http://www.nexusmods.com/skyrim/mods/39190) - better cave and mine textures and meshes.
+* [ ] [4k Parallax Mines by Pfuscher](http://www.nexusmods.com/skyrim/mods/58242) - parallax texturing for mines.
+* [ ] [Parallax Bridges by Pfuscher](http://www.nexusmods.com/skyrim/mods/57805) - parallax texturing for bridges.
+* [ ] [Real Roads for Skyrim](https://www.nexusmods.com/skyrim/mods/55518) - better looking roads.
+* [ ] [Skyrim Flora Overhaul](http://www.nexusmods.com/skyrim/mods/141) - better plant meshes and textures.
+* [ ] [Forest Bark](http://www.nexusmods.com/skyrim/mods/64192) - a companion mod to the flora overhaul with more attractive tree bark.
+* [ ] [Skyrim Bigger Trees](http://www.nexusmods.com/skyrim/mods/17168/?) - a mod that introduces taller trees.
+* [ ] [4K Parallax Treebark](http://www.nexusmods.com/skyrim/mods/61875) - better tree bark with parallax.
+* [ ] [Realistic Aspen Trees 4k](http://www.nexusmods.com/skyrim/mods/51069/?) - more realistic Aspen trees.
+* [ ] [4K Parallax Treebark Aspen Patch](http://www.nexusmods.com/skyrim/ajax/downloadfile?id=1000144755) - a patch that accommodates Aspen trees.
+* [ ] [Verdant - A Skyrim Grass Plugin](http://www.nexusmods.com/skyrim/mods/60220) - better and more dense grass. 
+      Requires you to modify your `[skyrim data]/Skyrim.ini` to add `iMaxGrassTypesPerTexture=15` and `iMinGrassSize=70`
+* [ ] [Verdant No Road Water Grass and Landscape Edits](http://www.nexusmods.com/skyrim/mods/80656/?) - a set of Verdant tweaks.
+* [ ] [High Definition Ivy](http://www.nexusmods.com/skyrim/mods/30971) - better ivy textures.
+* [ ] [Replacement Ivy](http://www.nexusmods.com/skyrim/mods/1878) - better ivy textures on existing models.
+* [ ] [RUGNAROK](http://www.nexusmods.com/skyrim/mods/64830) - nicer rug textures.
+* [ ] [Realistic Water Two](http://www.nexusmods.com/skyrim/mods/41076) - better water textures.
+* [ ] [Watercolor for ENB and Realistic Water Two](http://www.nexusmods.com/skyrim/mods/48938) - adds water color and sun scattering.
+* [ ] [Realistic Water Two ENB Textures](http://www.nexusmods.com/skyrim/ajax/downloadfile?id=1000081559) - water textures for the ENB.
+* [ ] [Transparent wave spray Retexture by Pfuscher](http://www.nexusmods.com/skyrim/mods/59547) - improved shoreline water spray.
+* [ ] [aMidianBorn Landscape](http://www.nexusmods.com/skyrim/mods/37865) - better landscape meshes.
+* [ ] [Solstheim landscape and furniture](http://www.nexusmods.com/skyrim/mods/31591) - better meshes and textures for furniture in Solstheim.
+* [ ] [aMidianBorn Solstheim Landscape](http://www.nexusmods.com/skyrim/mods/50013) - better textures for Solstheim landscape.
 
 ## Parallax Textures 
 
-- [Skyrim 2016 Terrain Parallax by Pfuscher](http://www.nexusmods.com/skyrim/mods/61929) - various parallax retextures for terrain. 
-I chose to not overwrite any files with this mod, since others are provided by aMidianBorn Landscape.
-- [Skyrim 2016 WIP by Pfuscher](http://www.nexusmods.com/skyrim/mods/60150/?) - parallax textures for other meshes.
-- [Whiterun Streets](http://www.nexusmods.com/skyrim/mods/82433) - improved parallax for Whiterun streets.
-- [Vivid Landscapes - Rocking Stones and Mountains Two](http://www.nexusmods.com/skyrim/mods/54540) - better stones and mountains.
-- [Project Parallax Remastered](http://www.nexusmods.com/skyrim/mods/40512) - better parallax textures for roads and stuff.
-- [Dust Effects](http://www.nexusmods.com/skyrim/mods/44201) - better dust particle effects.
+* [ ] [Skyrim 2016 Terrain Parallax by Pfuscher](http://www.nexusmods.com/skyrim/mods/61929) - various parallax retextures for terrain. 
+      I chose to not overwrite any files with this mod, since others are provided by aMidianBorn Landscape.
+* [ ] [Skyrim 2016 WIP by Pfuscher](http://www.nexusmods.com/skyrim/mods/60150/?) - parallax textures for other meshes.
+* [ ] [Whiterun Streets](http://www.nexusmods.com/skyrim/mods/82433) - improved parallax for Whiterun streets.
+* [ ] [Vivid Landscapes - Rocking Stones and Mountains Two](http://www.nexusmods.com/skyrim/mods/54540) - better stones and mountains.
+* [ ] [Project Parallax Remastered](http://www.nexusmods.com/skyrim/mods/40512) - better parallax textures for roads and stuff.
+* [ ] [Dust Effects](http://www.nexusmods.com/skyrim/mods/44201) - better dust particle effects.
 
 ## Custom Particles
 
-- [Particle Patch All-In-One & Subsurface Scattering Patch](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499) - complete particle and subsurface scattering mod. 
-Quit Nexus Mod Manager, download the archives, and move them to your Nexus Mods folder, which is usually located here: `C:\Games\Nexus Mod Manager\Skyrim\Mods`. 
-Then restart the mods and install them, but say no to mod when it asks to overwrite Static Mesh Improvement Mod.
+* [ ] [Particle Patch All-In-One & Subsurface Scattering Patch](http://enbseries.enbdev.com/forum/viewtopic.php?t=1499) - complete particle and subsurface scattering mod. 
+      Quit Nexus Mod Manager, download the archives, and move them to your Nexus Mods folder, which is usually located here: `C:\Games\Nexus Mod Manager\Skyrim\Mods`. 
+      Then restart the mods and install them, but say no to mod when it asks to overwrite Static Mesh Improvement Mod.
 
 ## Weather Mods
 
-- [Climates of Tamriel](http://www.nexusmods.com/skyrim/mods/17802) - major climates mod that improves weather and storms.
-- [Falskaar - Climates of Tamriel patch](http://www.nexusmods.com/skyrim/mods/38361) - patch for climates in Falskaar.
-- [Supreme Storms](http://www.nexusmods.com/skyrim/mods/27022) - larger, more realistic storms.
-- [True Storms - Thunder and Rain Redone](http://www.nexusmods.com/skyrim/mods/63478) - really attractive thunder storms.
-- [Lightning during Thunder Storms](http://www.nexusmods.com/skyrim/mods/15506) - adds lightning to storms.
-- [Lightning during Thunder Storms - Climates of Tamriel - Patch](http://www.nexusmods.com/skyrim/mods/25675) - compatibility patch for lightning.
-- [Wonders of Weather](http://www.nexusmods.com/skyrim/mods/64941) - adds rain splashes and rainbows.
+* [ ] [Climates of Tamriel](http://www.nexusmods.com/skyrim/mods/17802) - major climates mod that improves weather and storms.
+* [ ] [Falskaar - Climates of Tamriel patch](http://www.nexusmods.com/skyrim/mods/38361) - patch for climates in Falskaar.
+* [ ] [Supreme Storms](http://www.nexusmods.com/skyrim/mods/27022) - larger, more realistic storms.
+* [ ] [True Storms - Thunder and Rain Redone](http://www.nexusmods.com/skyrim/mods/63478) - really attractive thunder storms.
+* [ ] [Lightning during Thunder Storms](http://www.nexusmods.com/skyrim/mods/15506) - adds lightning to storms.
+* [ ] [Lightning during Thunder Storms - Climates of Tamriel - Patch](http://www.nexusmods.com/skyrim/mods/25675) - compatibility patch for lightning.
+* [ ] [Wonders of Weather](http://www.nexusmods.com/skyrim/mods/64941) - adds rain splashes and rainbows.
 
 ## Lighting Mods
 
