@@ -70,13 +70,19 @@ This will allow SKSE to execute plugins, such as CrashFixes, prior to loading th
 
 Finally, install the [Safety Load](http://www.nexusmods.com/skyrim/mods/46465/?) mod, which prevents infinite loading screens and other issues related to memory allocation.
 
+## Base Game Cleaning
+
+To clean the base game, open TESVEdit and load the `Skyrim.esm`, `Update.esm`, `Dawnguard.esm`, `HearthFires.esm`, and `Dragonborn.esm` files.
+Right click on each and select  `Apply Filter for Cleaning`.
+Then, right click again and select `Remove "Identical to Master" records`.
+
 ## Initial Mods
 
-- [Unofficial Skyrim Legendary Edition Patch](http://www.nexusmods.com/skyrim/mods/71214/?) - an enormous Skyrim patch that attempts to fix most of the common bugs currently persistent in the game.
-- [Falskaar](http://www.nexusmods.com/skyrim/mods/37994/?) - over 20 hours of extended story, including new items and lore.
-- [Alternate Start](http://www.nexusmods.com/skyrim/mods/9557/?) - adds different starting scenarios and skips the long, scripted cutscene in the beginning.
-- [SkyUI](http://www.nexusmods.com/skyrim/mods/3863/?) - an actually usable inventory control interface.
-- [iHUD](http://www.nexusmods.com/skyrim/mods/3222/?) - an configurable immersive in-game overlay.
+* [ ] [Unofficial Skyrim Legendary Edition Patch](http://www.nexusmods.com/skyrim/mods/71214/?) - an enormous Skyrim patch that attempts to fix most of the common bugs currently persistent in the game.
+* [ ] [Falskaar](http://www.nexusmods.com/skyrim/mods/37994/?) - over 20 hours of extended story, including new items and lore.
+* [ ] [Alternate Start](http://www.nexusmods.com/skyrim/mods/9557/?) - adds different starting scenarios and skips the cutscene in the beginning.
+* [ ] [SkyUI](http://www.nexusmods.com/skyrim/mods/3863/?) - an actually usable inventory control interface.
+* [ ] [iHUD](http://www.nexusmods.com/skyrim/mods/3222/?) - an configurable immersive in-game overlay.
 
 ## Modding Methodology
 
