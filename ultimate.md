@@ -155,55 +155,57 @@ I would recommend queueing a bunch of the listed mods in advance so they downloa
 
 ## Lighting Mods
 
-- [Enhanced Lights and FX](http://www.nexusmods.com/skyrim/mods/27043) - a really nice lighting and light effects mod.
-- [Vivid Landscapes ELFX Patch](http://www.nexusmods.com/skyrim/ajax/downloadfile?id=1000140985) - compatibility patch for Vivid Landscapes and ELFX.
+* [ ] [Enhanced Lights and FX](http://www.nexusmods.com/skyrim/mods/27043) - a really nice lighting and light effects mod.
+* [ ] [Vivid Landscapes ELFX Patch](http://www.nexusmods.com/skyrim/ajax/downloadfile?id=1000140985) - compatibility patch for Vivid Landscapes and ELFX.
 
 ## Towns and Villages
 
-- [Expanded Towns and Cities (ETAC)](http://www.nexusmods.com/skyrim/mods/13608) - provides bigger, more detailed towns and cities.
-- [Unique Shops and Stores](http://www.nexusmods.com/skyrim/mods/80393) - more interesting stores within cities and outposts.
+* [ ] [Lanterns of Skyrim - All In One](https://www.nexusmods.com/skyrim/mods/18916) - lanterns around Skyrim.
+* [ ] [Hunters Cabin of Riverwood](https://www.nexusmods.com/skyrim/mods/15878) - a small player home outside of Riverwood.
+* [ ] [Hunters Cabin of Riverwood - Extended](https://www.nexusmods.com/skyrim/mods/64841) - tweaks to the hunter cabin.
+* [ ] [Expanded Towns and Cities (ETAC)](http://www.nexusmods.com/skyrim/mods/13608) - provides bigger, more detailed towns and cities.
+* [ ] [Unique Shops and Stores](http://www.nexusmods.com/skyrim/mods/80393) - more interesting stores within cities and outposts.
 
 ## More Environment
 
-* [Ethereal Clouds](http://www.nexusmods.com/skyrim/mods/56279) - nice looking clouds.
-* [Real Skyrim Snowflakes - Vivid Snow](http://www.nexusmods.com/skyrim/mods/68496) - nice looking snow.
-* [Lorkhans Vision - Night Sky V2](http://www.nexusmods.com/skyrim/mods/48643) - use the ENB compatible version.
-* [Dawnguard Parallax](http://www.nexusmods.com/skyrim/mods/45477) - Dawnguard textures.
-* [Bellyaches Animal and Creature Pack](http://www.nexusmods.com/skyrim/mods/3621) - textured animals and creatures.
-* [Bellyaches HD Dragon Replacer Pack](http://www.nexusmods.com/skyrim/mods/29631) - retextured dragons.
-* [Enhanced HD Dragon Bones](http://www.nexusmods.com/skyrim/mods/28741) - better dragon bones.
-* [Realistic Boat Bobbing](http://www.nexusmods.com/skyrim/mods/52694) - makes boats look less ridiculous.
-* [RUSTIC CLOTHING](http://www.nexusmods.com/skyrim/mods/69784) - more interesting and thematic clothing.
-* [Mage Outfit Texture Overhaul (HD 2K) - MOTO - With Schools of Magic](http://www.nexusmods.com/skyrim/mods/69289) - mage clothing.
-* [aMidianBorn Book of Silence](http://www.nexusmods.com/skyrim/mods/24909) - retexture armor, weapons, creatures, and unique items. 
-Install in order of armor, creatures, Dragonborn DLC, unique items, weapons, as well as hot fixes. 
-Make sure to also read posted instructions, as there is a directory that has to be [renamed](https://www.nexusmods.com/skyrim/mods/24909?tab=posts).
-* [aMidianborn Wolf Armor and Skyforge Weapons](https://www.nexusmods.com/skyrim/mods/34147) - retextured wolf armor and Skyforge weapons.
-* [Joy of Ships](http://www.nexusmods.com/skyrim/mods/61808) - high quality replacements for ships and boats. 
-Also install the Joy of Parallax Ships patch from its files for using ENB.
-* [RUSTIC WINDOWS](http://www.nexusmods.com/skyrim/mods/54302) - better-looking windows.
-* [RUSTIC ALCHEMY and ENCHANTING TABLES](http://www.nexusmods.com/skyrim/mods/62328) - better alchemy and enchanting tables.
-* [LeanWolf's Improved Enchanter Candle Meshes](http://www.nexusmods.com/skyrim/mods/53638) - better meshes for enchanting table props.
-* [LeanWolf's Better-Shaped Weapons](http://www.nexusmods.com/skyrim/mods/39870) - makes weapons looks much more glorious and elegant, compatible with other retextures.
-* [RUSTIC CLUTTER COLLECTION](http://www.nexusmods.com/skyrim/mods/62506) - improved clutter meshes.
-* [RUSTIC COOKING STATION](http://www.nexusmods.com/skyrim/mods/62800) - more interesting foods and cooking meshes.
-* [RUSTIC EAST EMPIRE COMPANY SIGNAGE](http://www.nexusmods.com/skyrim/mods/68196) - more detailed signs for East Empire.
-* [RUSTIC ELDERSCROLL](http://www.nexusmods.com/skyrim/mods/73287) - thematically improved Elder Scroll textures.
-* [RUSTIC FORSWORN](http://www.nexusmods.com/skyrim/mods/73515) - improved textures for the forsworn armor.
-* [RUSTIC MONUMENTS and TOMBSTONES](http://www.nexusmods.com/skyrim/mods/68884) - better monuments and tombs.
-* [RUSTIC NORDIC MURALS](http://www.nexusmods.com/skyrim/mods/65602) - cool mural textures.
-* [RUSTIC OVEN - Hearthfires](http://www.nexusmods.com/skyrim/mods/68387) - better oven meshes and textures.
-* [RUSTIC SOULGEMS](http://www.nexusmods.com/skyrim/mods/63766) - more interesting soulgems.
-* [Soulgem Stand Redone](http://www.nexusmods.com/skyrim/mods/83320) - better mesh and texturing for soulgem stand.
-* [RUSTIC STANDING STONES](http://www.nexusmods.com/skyrim/mods/68493) - better standing stones. 
-* [RUSTIC WORD WALLS](http://www.nexusmods.com/skyrim/mods/68561) - more detailed textures and meshes for word walls.
-* [HD Ruined Book Retexture - 1k 4k -](http://www.nexusmods.com/skyrim/mods/74510) - more detailed ruined books.
-* [HD Stone Quarry and Clay Deposit for Hearthfire](http://www.nexusmods.com/skyrim/mods/38479) - cleaner quarries.
-* [Business Ledger HD Retexture](http://www.nexusmods.com/skyrim/mods/38389) - way better business ledger.
-* [Serious Mammoth Bone Retex HD](http://www.nexusmods.com/skyrim/mods/25179) - better mammoth skeletons.
-* [Forgotten Retex Project](http://www.nexusmods.com/skyrim/mods/81792) - revisits overlooked objects in Skyrim.
-* [RUSTIC ANIMATED POTIONS and POISONS](http://www.nexusmods.com/skyrim/mods/77541) - combination of poisons and potions mods.
-
+* [ ] [Ethereal Clouds](http://www.nexusmods.com/skyrim/mods/56279) - nice looking clouds.
+* [ ] [Real Skyrim Snowflakes - Vivid Snow](http://www.nexusmods.com/skyrim/mods/68496) - nice looking snow.
+* [ ] [Lorkhans Vision - Night Sky V2](http://www.nexusmods.com/skyrim/mods/48643) - use the ENB compatible version.
+* [ ] [Dawnguard Parallax](http://www.nexusmods.com/skyrim/mods/45477) - Dawnguard textures.
+* [ ] [Bellyaches Animal and Creature Pack](http://www.nexusmods.com/skyrim/mods/3621) - textured animals and creatures.
+* [ ] [Bellyaches HD Dragon Replacer Pack](http://www.nexusmods.com/skyrim/mods/29631) - retextured dragons.
+* [ ]  [Enhanced HD Dragon Bones](http://www.nexusmods.com/skyrim/mods/28741) - better dragon bones.
+* [ ]  [Realistic Boat Bobbing](http://www.nexusmods.com/skyrim/mods/52694) - makes boats look less ridiculous.
+* [ ]  [RUSTIC CLOTHING](http://www.nexusmods.com/skyrim/mods/69784) - more interesting and thematic clothing.
+* [ ]  [Mage Outfit Texture Overhaul (HD 2K) - MOTO - With Schools of Magic](http://www.nexusmods.com/skyrim/mods/69289) - mage clothing.
+* [ ] [aMidianBorn Book of Silence](http://www.nexusmods.com/skyrim/mods/24909) - retexture armor, weapons, creatures, and unique items. 
+  Install in order of armor, creatures, Dragonborn DLC, unique items, weapons, as well as hot fixes. 
+  Make sure to also read posted instructions, as there is a directory that has to be [renamed](https://www.nexusmods.com/skyrim/mods/24909?tab=posts)
+* [ ] [aMidianborn Wolf Armor and Skyforge Weapons](https://www.nexusmods.com/skyrim/mods/34147) - retextured wolf armor and Skyforge weapons.
+* [ ] [Joy of Ships](http://www.nexusmods.com/skyrim/mods/61808) - high quality replacements for ships and boats. 
+  Also install the Joy of Parallax Ships patch from its files for using ENB.
+* [ ] [RUSTIC WINDOWS](http://www.nexusmods.com/skyrim/mods/54302) - better-looking windows.
+* [ ] [RUSTIC ALCHEMY and ENCHANTING TABLES](http://www.nexusmods.com/skyrim/mods/62328) - better alchemy and enchanting tables.
+* [ ] [LeanWolf's Improved Enchanter Candle Meshes](http://www.nexusmods.com/skyrim/mods/53638) - better meshes for enchanting table props.
+* [ ] [LeanWolf's Better-Shaped Weapons](http://www.nexusmods.com/skyrim/mods/39870) - makes weapons looks much more glorious and elegant, compatible with other retextures.
+* [ ] [RUSTIC CLUTTER COLLECTION](http://www.nexusmods.com/skyrim/mods/62506) - improved clutter meshes.
+* [ ] [RUSTIC COOKING STATION](http://www.nexusmods.com/skyrim/mods/62800) - more interesting foods and cooking meshes.
+* [ ] [RUSTIC EAST EMPIRE COMPANY SIGNAGE](http://www.nexusmods.com/skyrim/mods/68196) - more detailed signs for East Empire.
+* [ ] [RUSTIC ELDERSCROLL](http://www.nexusmods.com/skyrim/mods/73287) - thematically improved Elder Scroll textures.
+* [ ] [RUSTIC FORSWORN](http://www.nexusmods.com/skyrim/mods/73515) - improved textures for the forsworn armor.
+* [ ] [RUSTIC MONUMENTS and TOMBSTONES](http://www.nexusmods.com/skyrim/mods/68884) - better monuments and tombs.
+* [ ] [RUSTIC NORDIC MURALS](http://www.nexusmods.com/skyrim/mods/65602) - cool mural textures.
+* [ ] [RUSTIC OVEN - Hearthfires](http://www.nexusmods.com/skyrim/mods/68387) - better oven meshes and textures.
+* [ ] [RUSTIC SOULGEMS](http://www.nexusmods.com/skyrim/mods/63766) - more interesting soulgems.
+* [ ] [Soulgem Stand Redone](http://www.nexusmods.com/skyrim/mods/83320) - better mesh and texturing for soulgem stand.
+* [ ] [RUSTIC STANDING STONES](http://www.nexusmods.com/skyrim/mods/68493) - better standing stones. 
+* [ ] [RUSTIC WORD WALLS](http://www.nexusmods.com/skyrim/mods/68561) - more detailed textures and meshes for word walls.
+* [ ] [HD Ruined Book Retexture - 1k 4k -](http://www.nexusmods.com/skyrim/mods/74510) - more detailed ruined books.
+* [ ] [HD Stone Quarry and Clay Deposit for Hearthfire](http://www.nexusmods.com/skyrim/mods/38479) - cleaner quarries.
+* [ ] [Business Ledger HD Retexture](http://www.nexusmods.com/skyrim/mods/38389) - way better business ledger.
+* [ ] [Serious Mammoth Bone Retex HD](http://www.nexusmods.com/skyrim/mods/25179) - better mammoth skeletons.
+* [ ] [Forgotten Retex Project](http://www.nexusmods.com/skyrim/mods/81792) - revisits overlooked objects in Skyrim.
+* [ ] [RUSTIC ANIMATED POTIONS and POISONS](http://www.nexusmods.com/skyrim/mods/77541) - combination of poisons and potions mods.
 ## Maps
 
 * [A Quality World Map and Solstheim Map - With Roads](http://www.nexusmods.com/skyrim/mods/4929) - standard world map improvements.
