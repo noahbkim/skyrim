@@ -355,7 +355,8 @@ bFXAAEnabled=0
 - [ ] [High Poly Project](http://www.nexusmods.com/skyrim/mods/76439) - model improvements similar to SMIM.
 - [ ] [Footprints](https://www.nexusmods.com/skyrim/mods/22745) - adds player footprints on snow.
 - [ ] [Splash of Rain](https://www.nexusmods.com/skyrim/mods/37873) - adds rain splash effects.
-
+- [ ] [DYNAVISION](https://www.nexusmods.com/skyrim/mods/12525) - dynamic depth of field.
+- [ ] [Point The Way](https://www.nexusmods.com/skyrim/mods/33393) - adds signposts around Skyrim.
 
 ## DynDOLOD
 
@@ -386,6 +387,9 @@ bFXAAEnabled=0
 - [ ] [The Art of Beard - New Facial Hairs](http://www.nexusmods.com/skyrim/mods/72961) - more facial hair options.
 - [ ] [Brows](http://www.nexusmods.com/skyrim/mods/30411) - eyebrow options.
 - [ ] [Smile in HD](http://www.nexusmods.com/skyrim/mods/34346) - better mouth textures.
+- [ ] [Enhanced Camera](https://www.nexusmods.com/skyrim/mods/57859) - more immersive first-person camera.
+- [ ] [RaceMenu](https://www.nexusmods.com/skyrim/mods/29624) - overhauls character creation menu.
+- [ ] [Improved closefaced helmets](https://www.nexusmods.com/skyrim/mods/15927) - see player's face under helmets.
 
 ## Lanterns
 
@@ -399,6 +403,7 @@ bFXAAEnabled=0
 - [ ] [HDT HighHeels System](http://www.nexusmods.com/skyrim/mods/36213) - modifies the height of different footwear.
 - [ ] [HDT Breast And Butt Physics - TBBP BBP Supported](http://www.nexusmods.com/skyrim/mods/54044) - add some sexy physics.
 - [ ] [HDT Equipment](http://www.nexusmods.com/skyrim/mods/57408) - moving slings and sheathes. Add the lanterns as well.
+- [ ] [Dead Body Collision Fix](https://www.nexusmods.com/skyrim/mods/30947) - adds collision to dead bodies.
 
 ## Odds and Ends
 - [ ] [NetImmerse Override](https://www.nexusmods.com/skyrim/mods/37481) - runtime shader overrides.
@@ -414,7 +419,6 @@ bFXAAEnabled=0
 - [ ] [Fores New Idles in Skyrim](https://www.nexusmods.com/skyrim/mods/11811) - idle animations.
 - [ ] [Realistic Ragdolls and Force](https://www.nexusmods.com/skyrim/mods/601) - ragdoll movement.
 - [ ] [XP32 Maximum Skeleton Extended](https://www.nexusmods.com/skyrim/mods/68000) - skeleton improvements.
-- [ ] [Dual Sheath Redux](https://www.nexusmods.com/skyrim/mods/34155) - sheaths left-hand weapon.
 - [ ] [Sexy Move](https://www.nexusmods.com/skyrim/mods/54521) - changes female movement.
 
 ## NPCs
@@ -440,8 +444,8 @@ bFXAAEnabled=0
 - [ ] [Interesting NPCs](https://www.nexusmods.com/skyrim/mods/8429) - adds dialogue to various NPCs.
 - [ ] [Guard Dialogue Overhaul](https://www.nexusmods.com/skyrim/mods/23390) - gives guards new dialogue.
 - [ ] [Inconsequential NPCs](https://www.nexusmods.com/skyrim/mods/36334) - adds a bunch of new NPCs.
-
-## Audio
+- [ ] [Run For Your Lives](https://www.nexusmods.com/skyrim/mods/23906) - ordinary citizens hide during dragon attacks.
+- [ ] [Fuz Ro D-oh](https://www.nexusmods.com/skyrim/mods/14884) - adds voice animation for silent dialogue.
 
 ## Gameplay
 - [ ] [Open Cities](https://www.nexusmods.com/skyrim/mods/8058) - makes major cities part of Skyrim.
@@ -454,11 +458,30 @@ bFXAAEnabled=0
 - [ ] [Improved Dragon Shout](https://www.nexusmods.com/skyrim/mods/14353) - tweaks all dragon shouts.
 - [ ] [Rich Merchants](https://www.nexusmods.com/skyrim/mods/769) - gives more gold to merchants.
 - [ ] [Trade and Barter](https://www.nexusmods.com/skyrim/mods/34612) - overhauls trading system.
+- [ ] [Convenient Horses](https://www.nexusmods.com/skyrim/mods/14950) - overhauls horses.
+- [ ] [Dual Wield Parrying](https://www.nexusmods.com/skyrim/mods/9247) - allows parrying while dual wielding.
+- [ ] [Better Arrows](https://www.nexusmods.com/skyrim/mods/13185) - arrows fly faster.
+- [ ] [TK Dodge](https://www.nexusmods.com/skyrim/mods/20923) - allows dodging in combat.
+- [ ] [Locational Damage](https://www.nexusmods.com/skyrim/mods/12615) - more damage when hitting certain body parts.
+- [ ] [The Dance of Death](https://www.nexusmods.com/skyrim/mods/10906) - adds new killmoves.
+- [ ] [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrim/mods/16225) - adds new spells.
+- [ ] [Immersive Weapons](https://www.nexusmods.com/skyrim/mods/27644) - adds lots of new weapons.
+- [ ] [Immersive Armors](https://www.nexusmods.com/skyrim/mods/19733) - adds lots of new armors.
+- [ ] [Weapons and Armor Fixes Remade](https://www.nexusmods.com/skyrim/mods/34093) - tweaks armor and weapon stats.
+- [ ] [Enchanted Arsenal](https://www.nexusmods.com/skyrim/mods/56614) - makes enchanted items cooler.
+- [ ] [Acquisitive Soul Gems](https://www.nexusmods.com/skyrim/mods/5312) - fixes soul gem mechanics.
+- [ ] [Lore-Based Loading Screens](https://www.nexusmods.com/skyrim/mods/21265) - adds new loading screens.
+- [ ] [No Menu and Loading Smoke](https://www.nexusmods.com/skyrim/mods/7901) - removes smoke for ENB compatibility.
+- [ ] [Even Better Quest Objectives](https://www.nexusmods.com/skyrim/mods/32695) - adds more descriptive quest objectives.
+
+## Quests
+- [ ] [The Paarthurnax Dilemma](https://www.nexusmods.com/skyrim/mods/18465) - allows saving Paarthurnax.
+- [ ] [The Forgotten City](https://www.nexusmods.com/skyrim/mods/70219) - new award-winning quest.
 
 ## Wildlife
+- [ ] [Immersive Creatures](https://www.nexusmods.com/skyrim/mods/24913) - adds many new creatures.
 - [ ] [Hunting in Skyrim](https://www.nexusmods.com/skyrim/mods/18866) - completely new hunting system.
-- [ ] [Birds of Skyrim](https://www.nexusmods.com/skyrim/mods/17723) - adds many new birds.
 
-## Patches
-- [ ] [Birds of Skyrim Patches](https://www.nexusmods.com/skyrim/mods/72833) - 
-- [ ] [Open Cities Patches](https://www.nexusmods.com/skyrim/mods/59937) - 
+## Install Last
+- [ ] [Dual Sheath Redux](https://www.nexusmods.com/skyrim/mods/34155) - sheaths left-hand weapon.
+- [ ] [Open Cities Patches](https://www.nexusmods.com/skyrim/mods/59937) - get Interesting NPCs, Inconsequential NPCs, Legendary patch, Breezhome Fully Upgradable 
