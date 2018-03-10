@@ -460,8 +460,6 @@ I would recommend queueing a bunch of the listed mods in advance so they downloa
 ## Wildlife
 - [ ] [Immersive Creatures](https://www.nexusmods.com/skyrim/mods/24913) - adds many new creatures.
 - [ ] [Hunting in Skyrim](https://www.nexusmods.com/skyrim/mods/18866) - completely new hunting system.
-- [ ] [Birds of Skyrim](https://www.nexusmods.com/skyrim/mods/17723) - adds many new birds.
 
 ## Patches
-- [ ] [Birds of Skyrim Patches](https://www.nexusmods.com/skyrim/mods/72833) - 
-- [ ] [Open Cities Patches](https://www.nexusmods.com/skyrim/mods/59937) - 
+- [ ] [Open Cities Patches](https://www.nexusmods.com/skyrim/mods/59937) - get Interesting NPCs, Inconsequential NPCs, Legendary patch, Breezhome Fully Upgradable 
