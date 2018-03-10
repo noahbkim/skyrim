@@ -208,190 +208,191 @@ I would recommend queueing a bunch of the listed mods in advance so they downloa
 * [ ] [RUSTIC ANIMATED POTIONS and POISONS](http://www.nexusmods.com/skyrim/mods/77541) - combination of poisons and potions mods.
 ## Maps
 
-* [A Quality World Map and Solstheim Map - With Roads](http://www.nexusmods.com/skyrim/mods/4929) - standard world map improvements.
-* [Better Falskaar and Wyrmstooth Map With Roads](http://www.nexusmods.com/skyrim/mods/51339) - mod maps.
+* [ ] [A Quality World Map and Solstheim Map - With Roads](http://www.nexusmods.com/skyrim/mods/4929) - standard world map improvements.
+* [ ] [Better Falskaar and Wyrmstooth Map With Roads](http://www.nexusmods.com/skyrim/mods/51339) - mod maps.
 
 ## Even More Environment
 
-* [Ultimate HD Torch](http://www.nexusmods.com/skyrim/mods/28060) - better torches.
-* [Smoking Torches and Candles](http://www.nexusmods.com/skyrim/mods/35819) - smoke for torches and candles.
-* [Birds of Skyrim](http://www.nexusmods.com/skyrim/mods/17723) - better birds.
-* [Birds of Skyrim - Ruhadre Patch v1.1](http://www.nexusmods.com/skyrim/mods/72833) - patch for birds, make sure to get the one that is USLEEP compatible.
-* [Enhanced Blood Textures](http://www.nexusmods.com/skyrim/mods/60) - better blood.
-* [Deadly Spell Impacts](http://www.nexusmods.com/skyrim/mods/2947) - textures for ground impacts from spells.
-* [Dawn of the Dawnguard Armor](http://www.nexusmods.com/skyrim/mods/64559) - better Dawnguard armor.
-* [Dragonbone Armor and Weapons HD by Natterforme](http://www.nexusmods.com/skyrim/mods/68952) - better dragonbone armor and weapons.
-* [Nightingale Prime HD](http://www.nexusmods.com/skyrim/mods/28899) - retexture weapons to match nightingale prime.
-* [Spellbreaker Oblivionized retexture in HD](http://www.nexusmods.com/skyrim/mods/58015) - spellbreaker with oblivion colors.
-* [Refracting Stalhrim](http://www.nexusmods.com/skyrim/mods/53067) - add refraction to Stalhrim.
-* [Outlandish Stalhrim](http://www.nexusmods.com/skyrim/mods/70817) - better textures for Stalhrim.
-* [Transparent and refracting Glass Eqmnt CBBE UNP UNPB](http://www.nexusmods.com/skyrim/mods/29123) - transparent glass and armor weapons. 
-Note: maybe go back and configure for enhanced blood?
-* [Thieves Guild Armor HD revival](http://www.nexusmods.com/skyrim/mods/46873) - better thieves guild armor. Also install the secondary armor replacements after the revival. 
-* [Deathbell HD - All-New Textures](http://www.nexusmods.com/skyrim/mods/70133) - better Deathbell flower textures.
-* [Mountain flower by Mari](http://www.nexusmods.com/skyrim/mods/78145) - mountain flowers.
-* [Deathbell by Mari](http://www.nexusmods.com/skyrim/mods/78197) - Deathbell meshes and textures.
-* [Green Hanging Spanish Moss HD](http://www.nexusmods.com/skyrim/mods/28985) - Spanish moss.
-* [Hybrids HD Plants and Herbs Retexture](http://www.nexusmods.com/skyrim/mods/1546) - some good flora textures. 
-Choose and install texture manually as many of them can be already retextured by other flora mods.
-* [Better Nirnroot - Hi-Res 2K Textures](http://www.nexusmods.com/skyrim/mods/36457) - improved Nirnroot.
-* [Tamriel Reloaded Grasses - Plants - Shrubs](http://www.nexusmods.com/skyrim/mods/59774) - better grasses and shrubs. 
-Install plants only. 
-Install texture files manually as many of this mod plants can look oversaturated and not very lore-friendly.
-* [Realistic Jazbay Grapes](http://www.nexusmods.com/skyrim/mods/70360) - better Jazbay grapes.
-* [Unique Flowers And Plants](http://www.nexusmods.com/skyrim/mods/58091) - interesting region-specific plants.
-* [Langleys Textures Workshop](http://www.nexusmods.com/skyrim/mods/26269) - various environmental texture improvements.
-* [Daedric Armor and weapon Improvement](http://www.nexusmods.com/skyrim/mods/3104) - better Daedric armor. Get the all-in-one.
-* [Realistic HD Food](http://www.nexusmods.com/skyrim/mods/62665) - better food, chickens, and other odds and ends.
-* [Realistic HD Baskets](http://www.nexusmods.com/skyrim/mods/66008) - better baskets!
-* [Enhanced Ore Veins](http://www.nexusmods.com/skyrim/mods/74836) - better ore veins, ingots, etc.
-* [Arri's Snow Elf Ruins Retexture](http://www.nexusmods.com/skyrim/mods/68660) - Snow Elf ruins retexture.
-* [Barenziah's Glory](http://www.nexusmods.com/skyrim/mods/63902) - better Barenziah's stone and armor textures.
-* [Barset HQ](http://www.nexusmods.com/skyrim/mods/64938) - high quality barset for inns, taverns, and shops.
-* [Better mammoth cheese](http://www.nexusmods.com/skyrim/mods/62991) - improved mammoth cheese textures.
-* [Better ropes for skyrim](http://www.nexusmods.com/skyrim/mods/69313) - better ropes.
-* [BLOODSTONE CHALICE REBORN](http://www.nexusmods.com/skyrim/mods/63551) - great bloodstone chalice retexture.
-* [Book Covers Skyrim](http://www.nexusmods.com/skyrim/mods/35399) - unique book covers for almost all books in Skyrim.
-* [Clothing Iron's retexture](http://www.nexusmods.com/skyrim/mods/74384) - clothing iron replacement.
-* [RUSTIC DEATH HOUND](http://www.nexusmods.com/skyrim/mods/77415) - better death hounds.
-* [RUSTIC GARGOYLE](http://www.nexusmods.com/skyrim/mods/77778) - better gargoyles.
-* [Detailing the Eldrich - Higher-Res Apocrypha - Temple of Miraak - Black Books](http://www.nexusmods.com/skyrim/mods/45782) - improved black books.
-* [Detailing the Eldrich - Higher-Res Riekling Architecture](http://www.nexusmods.com/skyrim/mods/46741) - improved architecture.
-* [DOOR](http://www.nexusmods.com/skyrim/mods/65786) - better doors.
-* [HD Whiterun Shack door](http://www.nexusmods.com/skyrim/mods/83229) - "THAT. AWFUL. DOORS. YOU SEE. EACH TIME. WHEN LEAVING. OR ENTERTING. THE HOUSE."
-* [Dragonborn Clothing HD Retextures](http://www.nexusmods.com/skyrim/mods/54681) - better dragonborn clothing.
-* [ELECTRIFY](http://www.nexusmods.com/skyrim/mods/58695) - better electric magic textures.
-* [Falmer Ear and Hagraven Claw](http://www.nexusmods.com/skyrim/mods/74792) - odds and ends of Falmer and Hagravens.
-* [Spider Egg Retexture](http://www.nexusmods.com/skyrim/mods/74336) - modified spider eggs.
-* [Taproot 1K](http://www.nexusmods.com/skyrim/mods/74303) - better taproot.
-* [Skeever Tail 1K](http://www.nexusmods.com/skyrim/mods/74291) - better skeever tail.
-* [TROLL](http://www.nexusmods.com/skyrim/mods/68131) - improved troll textures.
-* [WISPMOTHER](http://www.nexusmods.com/skyrim/mods/67525) - wispmother textures and meshes.
-* [HAGRAVEN](http://www.nexusmods.com/skyrim/mods/67075) - improved hagraven textures.
-* [Hagravens](http://www.nexusmods.com/skyrim/mods/74121) - previous mod retextures hagravens, this one retextures their building and other objects, so use them both.
-* [FALMER](http://www.nexusmods.com/skyrim/mods/66770) - falmer textures.
-* [GIANT](http://www.nexusmods.com/skyrim/mods/66428) - giant textures.
-* [HORNCANDLES](http://www.nexusmods.com/skyrim/mods/66185) - horn candles for chandeliers.
-* [Farmhouse Chimneys](http://www.nexusmods.com/skyrim/mods/51330) - adds chimneys, beautiful and immersive.
-* [Fine Lute Texture](http://www.nexusmods.com/skyrim/mods/71994) - better lutes.
-* [Frankly HD Miraak](http://www.nexusmods.com/skyrim/mods/75063) - better Miraak gear.
-* [Gildergreen 4K Parallax](http://www.nexusmods.com/skyrim/mods/74498) - better textures for the Gildergreen tree in Whiterun.
-* [HD Dark brotherhood door](http://www.nexusmods.com/skyrim/mods/53059) - another door fix.
-* [HD Model Ship](http://www.nexusmods.com/skyrim/mods/74931) - thieves guild model ship.
-* [Hectrol SPIDER WEBS Deluxe HighRes Retex](http://www.nexusmods.com/skyrim/mods/1731) - better spider webs.
-* [IMMERSIVE LORE-FRIENDLY CHEESE AND CABBAGE](http://www.nexusmods.com/skyrim/mods/62603) - cheese and cabbage.
-* [Insanitys City Banner Replacer](http://www.nexusmods.com/skyrim/mods/16791) - city banners.
-* [Designs of the Nords](http://www.nexusmods.com/skyrim/mods/13429) - Nordic city banners.
-* [Jewels of the Nord - HD rings and necklaces](http://www.nexusmods.com/skyrim/mods/27038) - improved jewelry.
-* [JS Dragon Claws](http://www.nexusmods.com/skyrim/mods/75377) - better dragon claw textures.
-* [Leather LeatherStrips and Leatherrack](http://www.nexusmods.com/skyrim/mods/74380) - leath retextures.
-* [LEAVES](http://www.nexusmods.com/skyrim/mods/52733) - fallen leaves retexture (not the tree leaves).
-* [Magic Runes HD](http://www.nexusmods.com/skyrim/mods/41052) - redone magic runes.
-* [MANHOLE OF SOLITUDE](http://www.nexusmods.com/skyrim/mods/58959) - improved manhole covers.
-* [MAPS](http://www.nexusmods.com/skyrim/mods/66819) - nice paper maps.
-* [More Dramatic Alduin Retexture](http://www.nexusmods.com/skyrim/mods/54070) - casual Alduin retexture.
-* [Better Shaped Female Creatures](http://www.nexusmods.com/skyrim/mods/51560) - adds more feminine look to many female creatures.
-* [nightingale circle](http://www.nexusmods.com/skyrim/mods/74278) - better nightingale circle texture.
-* [Nord Cattle - HD cows](http://www.nexusmods.com/skyrim/mods/29673) - cows!
-* [Northfire's Skidmarks 1K-2K](http://www.nexusmods.com/skyrim/mods/72245) - landing skid marks for dragons.
-* [OIL](http://www.nexusmods.com/skyrim/mods/59714) - oil retexture.
-* [PELTAPALOOZA - Pelts of Skyrim Expansion](http://www.nexusmods.com/skyrim/mods/60412) - improved textures and look for pelts.
-* [Project Skyrim HD - College of Winterhold](http://www.nexusmods.com/skyrim/mods/43063) - overhaul retexture for College of Winterhold
-* [Brawl Bug Plugin](https://www.nexusmods.com/skyrim/mods/24020) - fix for effect and player state bug.
-* [Campfire - Complete Camping System](https://www.nexusmods.com/skyrim/mods/64798) - immersive camping experience.
-* [HQ Snow Texture](https://www.nexusmods.com/skyrim/mods/743) - better snow. NOTE: might be redundant.
-* [Get Snowy](https://www.nexusmods.com/skyrim/mods/19660) - adds snow to NPC's and objects under snowfall.
-* [Dynamic Ash](https://www.nexusmods.com/skyrim/mods/84806) - better environmental ash.
-* [Rens HD Shrines](http://www.nexusmods.com/skyrim/mods/50327) - better shrines.
-* [Rens HD Flame Atronach](http://www.nexusmods.com/skyrim/mods/51456) - flame Atronach improvements.
-* [Seeker and Lurker - Creature Retex](http://www.nexusmods.com/skyrim/mods/73321) - seeker and lurker retextures.
-* [Storm Atronach - Creature Retex](http://www.nexusmods.com/skyrim/mods/73385) - storm atronach retexture.
-* [Ice Wraith Retexture](http://www.nexusmods.com/skyrim/mods/32741) - ice wraith and dragon priest retexture.
-* [Stunning Statues of Skyrim](http://www.nexusmods.com/skyrim/mods/56588) - improved, customizable statues.
-* [tamu75 Terrain Parallax Textures](http://www.nexusmods.com/skyrim/mods/61416) - apply if preferred.
-* [Troll Skull 4kHD](http://www.nexusmods.com/skyrim/mods/58681) - manual retexture for troll skull.
-* [Ultra HD Rags Retexture](http://www.nexusmods.com/skyrim/mods/72847) - more interesting rag textures.
-* [Upgrade for Large imperial tent](http://www.nexusmods.com/skyrim/mods/68631) - a better mesh and texture for large imperial tents.
-* [Vandr Presents - HD Falmer Pod](http://www.nexusmods.com/skyrim/mods/6936) - improved falmer pods.
-* [WATERplants - retexture by Pfuscher](http://www.nexusmods.com/skyrim/mods/57868) - retextured water flora.
-* [Weathered Road Signs](http://www.nexusmods.com/skyrim/mods/2810) - retextured road signs.
-* [White Phial Replacer](http://www.nexusmods.com/skyrim/mods/54078) - retextured white phials.
-* [Windhelm Enhanced - HD 4k Grey Quarter Flags](http://www.nexusmods.com/skyrim/mods/74720) -
-* [Windhelm Enhanced - HD 4k Metalwork](http://www.nexusmods.com/skyrim/mods/74830) -
-* [Windhelm Enhanced - 500 Companions Wall 8k HD Retexture](http://www.nexusmods.com/skyrim/mods/74942) -
-* [Skyrim Landscape Overhaul - Stone Walls](http://www.nexusmods.com/skyrim/mods/76359) - mesh and texture replacer for the freestanding stone walls. 
-* [Nightingale Pride - Bow and Blade Reincarnation](http://www.nexusmods.com/skyrim/mods/33704) - improved textures for nightingale bow and blade.
-* [Frankly HD Silver Sword](http://www.nexusmods.com/skyrim/mods/29563) - well created silver sword.
-* [Lockpicking Interface Redone](http://www.nexusmods.com/skyrim/mods/63279) - better lock picking.
-* [Frankly HD Stormcloak and City Guards](http://www.nexusmods.com/skyrim/mods/42404) - retexture for guards.
-* [Embers HD](http://www.nexusmods.com/skyrim/mods/62425) - meshes, textures, and effects for embers from fire. 
-* [High Poly Project](http://www.nexusmods.com/skyrim/mods/76439) - model improvements similar to SMIM.
+* [ ] [Ultimate HD Torch](http://www.nexusmods.com/skyrim/mods/28060) - better torches.
+
+- [ ] [Smoking Torches and Candles](http://www.nexusmods.com/skyrim/mods/35819) - smoke for torches and candles.
+- [ ] [Birds of Skyrim](http://www.nexusmods.com/skyrim/mods/17723) - better birds.
+- [ ] [Birds of Skyrim - Ruhadre Patch v1.1](http://www.nexusmods.com/skyrim/mods/72833) - patch for birds, make sure to get the one that is USLEEP compatible.
+- [ ] [Enhanced Blood Textures](http://www.nexusmods.com/skyrim/mods/60) - better blood.
+- [ ] [Deadly Spell Impacts](http://www.nexusmods.com/skyrim/mods/2947) - textures for ground impacts from spells.
+- [ ] [Dawn of the Dawnguard Armor](http://www.nexusmods.com/skyrim/mods/64559) - better Dawnguard armor.
+- [ ] [Dragonbone Armor and Weapons HD by Natterforme](http://www.nexusmods.com/skyrim/mods/68952) - better dragonbone armor and weapons.
+- [ ] [Nightingale Prime HD](http://www.nexusmods.com/skyrim/mods/28899) - retexture weapons to match nightingale prime.
+- [ ] [Spellbreaker Oblivionized retexture in HD](http://www.nexusmods.com/skyrim/mods/58015) - spellbreaker with oblivion colors.
+- [ ] [Refracting Stalhrim](http://www.nexusmods.com/skyrim/mods/53067) - add refraction to Stalhrim.
+- [ ] [Outlandish Stalhrim](http://www.nexusmods.com/skyrim/mods/70817) - better textures for Stalhrim.
+- [ ] [Transparent and refracting Glass Eqmnt CBBE UNP UNPB](http://www.nexusmods.com/skyrim/mods/29123) - transparent glass and armor weapons. 
+  Note: maybe go back and configure for enhanced blood?
+- [ ] [Thieves Guild Armor HD revival](http://www.nexusmods.com/skyrim/mods/46873) - better thieves guild armor. Also install the secondary armor replacements after the revival. 
+- [ ] [Deathbell HD - All-New Textures](http://www.nexusmods.com/skyrim/mods/70133) - better Deathbell flower textures.
+- [ ] [Mountain flower by Mari](http://www.nexusmods.com/skyrim/mods/78145) - mountain flowers.
+- [ ] [Deathbell by Mari](http://www.nexusmods.com/skyrim/mods/78197) - Deathbell meshes and textures.
+- [ ] [Green Hanging Spanish Moss HD](http://www.nexusmods.com/skyrim/mods/28985) - Spanish moss.
+- [ ] [Hybrids HD Plants and Herbs Retexture](http://www.nexusmods.com/skyrim/mods/1546) - some good flora textures. 
+  Choose and install texture manually as many of them can be already retextured by other flora mods.
+- [ ] [Better Nirnroot - Hi-Res 2K Textures](http://www.nexusmods.com/skyrim/mods/36457) - improved Nirnroot.
+- [ ] [Tamriel Reloaded Grasses - Plants - Shrubs](http://www.nexusmods.com/skyrim/mods/59774) - better grasses and shrubs. 
+  Install plants only. 
+  Install texture files manually as many of this mod plants can look oversaturated and not very lore-friendly.
+- [ ] [Realistic Jazbay Grapes](http://www.nexusmods.com/skyrim/mods/70360) - better Jazbay grapes.
+- [ ] [Unique Flowers And Plants](http://www.nexusmods.com/skyrim/mods/58091) - interesting region-specific plants.
+- [ ] [Langleys Textures Workshop](http://www.nexusmods.com/skyrim/mods/26269) - various environmental texture improvements.
+- [ ] [Daedric Armor and weapon Improvement](http://www.nexusmods.com/skyrim/mods/3104) - better Daedric armor. Get the all-in-one.
+- [ ] [Realistic HD Food](http://www.nexusmods.com/skyrim/mods/62665) - better food, chickens, and other odds and ends.
+- [ ] [Realistic HD Baskets](http://www.nexusmods.com/skyrim/mods/66008) - better baskets!
+- [ ] [Enhanced Ore Veins](http://www.nexusmods.com/skyrim/mods/74836) - better ore veins, ingots, etc.
+- [ ] [Arri's Snow Elf Ruins Retexture](http://www.nexusmods.com/skyrim/mods/68660) - Snow Elf ruins retexture.
+- [ ] [Barenziah's Glory](http://www.nexusmods.com/skyrim/mods/63902) - better Barenziah's stone and armor textures.
+- [ ] [Barset HQ](http://www.nexusmods.com/skyrim/mods/64938) - high quality barset for inns, taverns, and shops.
+- [ ] [Better mammoth cheese](http://www.nexusmods.com/skyrim/mods/62991) - improved mammoth cheese textures.
+- [ ] [Better ropes for skyrim](http://www.nexusmods.com/skyrim/mods/69313) - better ropes.
+- [ ] [BLOODSTONE CHALICE REBORN](http://www.nexusmods.com/skyrim/mods/63551) - great bloodstone chalice retexture.
+- [ ] [Book Covers Skyrim](http://www.nexusmods.com/skyrim/mods/35399) - unique book covers for almost all books in Skyrim.
+- [ ] [Clothing Iron's retexture](http://www.nexusmods.com/skyrim/mods/74384) - clothing iron replacement.
+- [ ] [RUSTIC DEATH HOUND](http://www.nexusmods.com/skyrim/mods/77415) - better death hounds.
+- [ ] [RUSTIC GARGOYLE](http://www.nexusmods.com/skyrim/mods/77778) - better gargoyles.
+- [ ] [Detailing the Eldrich - Higher-Res Apocrypha - Temple of Miraak - Black Books](http://www.nexusmods.com/skyrim/mods/45782) - improved black books.
+- [ ] [Detailing the Eldrich - Higher-Res Riekling Architecture](http://www.nexusmods.com/skyrim/mods/46741) - improved architecture.
+- [ ] [DOOR](http://www.nexusmods.com/skyrim/mods/65786) - better doors.
+- [ ] [HD Whiterun Shack door](http://www.nexusmods.com/skyrim/mods/83229) - "THAT. AWFUL. DOORS. YOU SEE. EACH TIME. WHEN LEAVING. OR ENTERTING. THE HOUSE."
+- [ ] [Dragonborn Clothing HD Retextures](http://www.nexusmods.com/skyrim/mods/54681) - better dragonborn clothing.
+- [ ] [ELECTRIFY](http://www.nexusmods.com/skyrim/mods/58695) - better electric magic textures.
+- [ ] [Falmer Ear and Hagraven Claw](http://www.nexusmods.com/skyrim/mods/74792) - odds and ends of Falmer and Hagravens.
+- [ ] [Spider Egg Retexture](http://www.nexusmods.com/skyrim/mods/74336) - modified spider eggs.
+- [ ] [Taproot 1K](http://www.nexusmods.com/skyrim/mods/74303) - better taproot.
+- [ ] [Skeever Tail 1K](http://www.nexusmods.com/skyrim/mods/74291) - better skeever tail.
+- [ ] [TROLL](http://www.nexusmods.com/skyrim/mods/68131) - improved troll textures.
+- [ ] [WISPMOTHER](http://www.nexusmods.com/skyrim/mods/67525) - wispmother textures and meshes.
+- [ ] [HAGRAVEN](http://www.nexusmods.com/skyrim/mods/67075) - improved hagraven textures.
+- [ ] [Hagravens](http://www.nexusmods.com/skyrim/mods/74121) - previous mod retextures hagravens, this one retextures their building and other objects, so use them both.
+- [ ] [FALMER](http://www.nexusmods.com/skyrim/mods/66770) - falmer textures.
+- [ ] [GIANT](http://www.nexusmods.com/skyrim/mods/66428) - giant textures.
+- [ ] [HORNCANDLES](http://www.nexusmods.com/skyrim/mods/66185) - horn candles for chandeliers.
+- [ ] [Farmhouse Chimneys](http://www.nexusmods.com/skyrim/mods/51330) - adds chimneys, beautiful and immersive.
+- [ ] [Fine Lute Texture](http://www.nexusmods.com/skyrim/mods/71994) - better lutes.
+- [ ] [Frankly HD Miraak](http://www.nexusmods.com/skyrim/mods/75063) - better Miraak gear.
+- [ ] [Gildergreen 4K Parallax](http://www.nexusmods.com/skyrim/mods/74498) - better textures for the Gildergreen tree in Whiterun.
+- [ ] [HD Dark brotherhood door](http://www.nexusmods.com/skyrim/mods/53059) - another door fix.
+- [ ] [HD Model Ship](http://www.nexusmods.com/skyrim/mods/74931) - thieves guild model ship.
+- [ ] [Hectrol SPIDER WEBS Deluxe HighRes Retex](http://www.nexusmods.com/skyrim/mods/1731) - better spider webs.
+- [ ] [IMMERSIVE LORE-FRIENDLY CHEESE AND CABBAGE](http://www.nexusmods.com/skyrim/mods/62603) - cheese and cabbage.
+- [ ] [Insanitys City Banner Replacer](http://www.nexusmods.com/skyrim/mods/16791) - city banners.
+- [ ] [Designs of the Nords](http://www.nexusmods.com/skyrim/mods/13429) - Nordic city banners.
+- [ ] [Jewels of the Nord - HD rings and necklaces](http://www.nexusmods.com/skyrim/mods/27038) - improved jewelry.
+- [ ] [JS Dragon Claws](http://www.nexusmods.com/skyrim/mods/75377) - better dragon claw textures.
+- [ ] [Leather LeatherStrips and Leatherrack](http://www.nexusmods.com/skyrim/mods/74380) - leath retextures.
+- [ ] [LEAVES](http://www.nexusmods.com/skyrim/mods/52733) - fallen leaves retexture (not the tree leaves).
+- [ ] [Magic Runes HD](http://www.nexusmods.com/skyrim/mods/41052) - redone magic runes.
+- [ ] [MANHOLE OF SOLITUDE](http://www.nexusmods.com/skyrim/mods/58959) - improved manhole covers.
+- [ ] [MAPS](http://www.nexusmods.com/skyrim/mods/66819) - nice paper maps.
+- [ ] [More Dramatic Alduin Retexture](http://www.nexusmods.com/skyrim/mods/54070) - casual Alduin retexture.
+- [ ] [Better Shaped Female Creatures](http://www.nexusmods.com/skyrim/mods/51560) - adds more feminine look to many female creatures.
+- [ ] [nightingale circle](http://www.nexusmods.com/skyrim/mods/74278) - better nightingale circle texture.
+- [ ] [Nord Cattle - HD cows](http://www.nexusmods.com/skyrim/mods/29673) - cows!
+- [ ] [Northfire's Skidmarks 1K-2K](http://www.nexusmods.com/skyrim/mods/72245) - landing skid marks for dragons.
+- [ ] [OIL](http://www.nexusmods.com/skyrim/mods/59714) - oil retexture.
+- [ ] [PELTAPALOOZA - Pelts of Skyrim Expansion](http://www.nexusmods.com/skyrim/mods/60412) - improved textures and look for pelts.
+- [ ] [Project Skyrim HD - College of Winterhold](http://www.nexusmods.com/skyrim/mods/43063) - overhaul retexture for College of Winterhold
+- [ ] [Brawl Bug Plugin](https://www.nexusmods.com/skyrim/mods/24020) - fix for effect and player state bug.
+- [ ] [Campfire - Complete Camping System](https://www.nexusmods.com/skyrim/mods/64798) - immersive camping experience.
+- [ ] [HQ Snow Texture](https://www.nexusmods.com/skyrim/mods/743) - better snow. NOTE: might be redundant.
+- [ ] [Get Snowy](https://www.nexusmods.com/skyrim/mods/19660) - adds snow to NPC's and objects under snowfall.
+- [ ] [Dynamic Ash](https://www.nexusmods.com/skyrim/mods/84806) - better environmental ash.
+- [ ] [Rens HD Shrines](http://www.nexusmods.com/skyrim/mods/50327) - better shrines.
+- [ ] [Rens HD Flame Atronach](http://www.nexusmods.com/skyrim/mods/51456) - flame Atronach improvements.
+- [ ] [Seeker and Lurker - Creature Retex](http://www.nexusmods.com/skyrim/mods/73321) - seeker and lurker retextures.
+- [ ] [Storm Atronach - Creature Retex](http://www.nexusmods.com/skyrim/mods/73385) - storm atronach retexture.
+- [ ] [Ice Wraith Retexture](http://www.nexusmods.com/skyrim/mods/32741) - ice wraith and dragon priest retexture.
+- [ ] [Stunning Statues of Skyrim](http://www.nexusmods.com/skyrim/mods/56588) - improved, customizable statues.
+- [ ] [tamu75 Terrain Parallax Textures](http://www.nexusmods.com/skyrim/mods/61416) - apply if preferred.
+- [ ] [Troll Skull 4kHD](http://www.nexusmods.com/skyrim/mods/58681) - manual retexture for troll skull.
+- [ ] [Ultra HD Rags Retexture](http://www.nexusmods.com/skyrim/mods/72847) - more interesting rag textures.
+- [ ] [Upgrade for Large imperial tent](http://www.nexusmods.com/skyrim/mods/68631) - a better mesh and texture for large imperial tents.
+- [ ] [Vandr Presents - HD Falmer Pod](http://www.nexusmods.com/skyrim/mods/6936) - improved falmer pods.
+- [ ] [WATERplants - retexture by Pfuscher](http://www.nexusmods.com/skyrim/mods/57868) - retextured water flora.
+- [ ] [Weathered Road Signs](http://www.nexusmods.com/skyrim/mods/2810) - retextured road signs.
+- [ ] [White Phial Replacer](http://www.nexusmods.com/skyrim/mods/54078) - retextured white phials.
+- [ ] [Windhelm Enhanced - HD 4k Grey Quarter Flags](http://www.nexusmods.com/skyrim/mods/74720) -
+- [ ] [Windhelm Enhanced - HD 4k Metalwork](http://www.nexusmods.com/skyrim/mods/74830) -
+- [ ] [Windhelm Enhanced - 500 Companions Wall 8k HD Retexture](http://www.nexusmods.com/skyrim/mods/74942) -
+- [ ] [Skyrim Landscape Overhaul - Stone Walls](http://www.nexusmods.com/skyrim/mods/76359) - mesh and texture replacer for the freestanding stone walls. 
+- [ ] [Nightingale Pride - Bow and Blade Reincarnation](http://www.nexusmods.com/skyrim/mods/33704) - improved textures for nightingale bow and blade.
+- [ ] [Frankly HD Silver Sword](http://www.nexusmods.com/skyrim/mods/29563) - well created silver sword.
+- [ ] [Lockpicking Interface Redone](http://www.nexusmods.com/skyrim/mods/63279) - better lock picking.
+- [ ] [Frankly HD Stormcloak and City Guards](http://www.nexusmods.com/skyrim/mods/42404) - retexture for guards.
+- [ ] [Embers HD](http://www.nexusmods.com/skyrim/mods/62425) - meshes, textures, and effects for embers from fire. 
+- [ ] [High Poly Project](http://www.nexusmods.com/skyrim/mods/76439) - model improvements similar to SMIM.
 
 ## DynDOLOD
 
-- [Dynamic Distant Objects LOD - DynDOLOD](http://www.nexusmods.com/skyrim/mods/59721) - a tool for generating and rendering distant objects. 
-Essentially, this mod makes everything far away look like it should. 
-However, I had some difficulties installing it due to Windows' awful file system capitalization ambiguity. 
-The main issue with the mod is that the resources core files are packaged inconsistently: while some files are meant for Data/Textures, others are meant for Data/textures. 
-However, there can only be one such folder, and any files intended to be moved to the other are ignored with no warning. 
-To fix this without simply copying the files and directories over, I downloaded the manual installation package, renamed the offending file paths according to what was already in my Data folder, and repackaged it as a zip file. 
-I then installed that mod from my local file system. Make sure to follow the actual instruction manual. 
+- [ ] [Dynamic Distant Objects LOD - DynDOLOD](http://www.nexusmods.com/skyrim/mods/59721) - a tool for generating and rendering distant objects. 
+  Essentially, this mod makes everything far away look like it should. 
+  However, I had some difficulties installing it due to Windows' awful file system capitalization ambiguity. 
+  The main issue with the mod is that the resources core files are packaged inconsistently: while some files are meant for Data/Textures, others are meant for Data/textures. 
+  However, there can only be one such folder, and any files intended to be moved to the other are ignored with no warning. 
+  To fix this without simply copying the files and directories over, I downloaded the manual installation package, renamed the offending file paths according to what was already in my Data folder, and repackaged it as a zip file. 
+  I then installed that mod from my local file system. Make sure to follow the actual instruction manual. 
 
 ## Player
 
-* [RaceMenu](http://www.nexusmods.com/skyrim/mods/29624) - disables character creator cache and provides support for complex character creation.
-* [Caliente's Beautiful Bodies Edition -CBBE-](http://www.nexusmods.com/skyrim/mods/2666) - better female body models.
-* [Fitness Body](http://www.nexusmods.com/skyrim/mods/16731) - fitness blender for female models.
-* [Mature skin texture and body for UNP(B) 7BASE CBBE Vanilla](http://www.nexusmods.com/skyrim/mods/32986) - skin tone and coloration for aging.
-* [Better males - Beautiful nudes and faces - New hairstyles](http://www.nexusmods.com/skyrim/mods/2488) - better male body models.
-* [Natural Eyes](http://www.nexusmods.com/skyrim/mods/3589) - basic eye textures for full range.
-* [Lind's Human Eyes](http://www.nexusmods.com/skyrim/mods/75674) - beautiful human eye textures.
-* [Lind's Elven Eyes](http://www.nexusmods.com/skyrim/mods/74948) - beautiful elven eye textures.
-* [Superior Lore-Friendly Hair - HD textures](http://www.nexusmods.com/skyrim/mods/36510) - well-rounded textures and meshes for hairstyles.
-* [ApachiiSkyHair](http://www.nexusmods.com/skyrim/mods/10168) - more hairstyles.
-* [XCE - Warpaint and Dirt](http://www.nexusmods.com/skyrim/mods/29977) - facial war paint options.
-* [High Resolution Scars](http://www.nexusmods.com/skyrim/mods/4784) - facial scars.
-* [Northborn Scars](http://www.nexusmods.com/skyrim/mods/49279) - scares of the Northborn.
-* [Beards](http://www.nexusmods.com/skyrim/mods/28363) - better beards.
-* [The Art of Beard - New Facial Hairs](http://www.nexusmods.com/skyrim/mods/72961) - more facial hair options.
-* [Brows](http://www.nexusmods.com/skyrim/mods/30411) - eyebrow options.
-* [Smile in HD](http://www.nexusmods.com/skyrim/mods/34346) - better mouth textures.
+- [ ] [RaceMenu](http://www.nexusmods.com/skyrim/mods/29624) - disables character creator cache and provides support for complex character creation.
+- [ ] [Caliente's Beautiful Bodies Edition -CBBE-](http://www.nexusmods.com/skyrim/mods/2666) - better female body models.
+- [ ] [Fitness Body](http://www.nexusmods.com/skyrim/mods/16731) - fitness blender for female models.
+- [ ] [Mature skin texture and body for UNP(B) 7BASE CBBE Vanilla](http://www.nexusmods.com/skyrim/mods/32986) - skin tone and coloration for aging.
+- [ ] [Better males - Beautiful nudes and faces - New hairstyles](http://www.nexusmods.com/skyrim/mods/2488) - better male body models.
+- [ ] [Natural Eyes](http://www.nexusmods.com/skyrim/mods/3589) - basic eye textures for full range.
+- [ ] [Lind's Human Eyes](http://www.nexusmods.com/skyrim/mods/75674) - beautiful human eye textures.
+- [ ] [Lind's Elven Eyes](http://www.nexusmods.com/skyrim/mods/74948) - beautiful elven eye textures.
+- [ ] [Superior Lore-Friendly Hair - HD textures](http://www.nexusmods.com/skyrim/mods/36510) - well-rounded textures and meshes for hairstyles.
+- [ ] [ApachiiSkyHair](http://www.nexusmods.com/skyrim/mods/10168) - more hairstyles.
+- [ ] [XCE - Warpaint and Dirt](http://www.nexusmods.com/skyrim/mods/29977) - facial war paint options.
+- [ ] [High Resolution Scars](http://www.nexusmods.com/skyrim/mods/4784) - facial scars.
+- [ ] [Northborn Scars](http://www.nexusmods.com/skyrim/mods/49279) - scares of the Northborn.
+- [ ] [Beards](http://www.nexusmods.com/skyrim/mods/28363) - better beards.
+- [ ] [The Art of Beard - New Facial Hairs](http://www.nexusmods.com/skyrim/mods/72961) - more facial hair options.
+- [ ] [Brows](http://www.nexusmods.com/skyrim/mods/30411) - eyebrow options.
+- [ ] [Smile in HD](http://www.nexusmods.com/skyrim/mods/34346) - better mouth textures.
 
 ## Lanterns
 
-* [Campfire](https://www.nexusmods.com/skyrim/mods/64798/) - adds camping and camping equipment.
-* [Wearable Lanterns](https://www.nexusmods.com/skyrim/mods/17416/) - added as an afterthought because I saw the HDT mod. Adds lanterns that illuminate the area around you.
-* [Wearable Lanterns SMIM Patch](https://www.nexusmods.com/skyrim/mods/34535/) - SMIM compatibility.
+- [ ] [Campfire](https://www.nexusmods.com/skyrim/mods/64798/) - adds camping and camping equipment.
+- [ ] [Wearable Lanterns](https://www.nexusmods.com/skyrim/mods/17416/) - added as an afterthought because I saw the HDT mod. Adds lanterns that illuminate the area around you.
+- [ ] [Wearable Lanterns SMIM Patch](https://www.nexusmods.com/skyrim/mods/34535/) - SMIM compatibility.
 
 ## Physics
 
-* [HDT Physics Extensions](http://www.nexusmods.com/skyrim/mods/53996) - required to run further physics extensions.
-* [HDT HighHeels System](http://www.nexusmods.com/skyrim/mods/36213) - modifies the height of different footwear.
-* [HDT Breast And Butt Physics - TBBP BBP Supported](http://www.nexusmods.com/skyrim/mods/54044) - add some sexy physics.
-* [HDT Equipment](http://www.nexusmods.com/skyrim/mods/57408) - moving slings and sheathes. Add the lanterns as well.
+- [ ] [HDT Physics Extensions](http://www.nexusmods.com/skyrim/mods/53996) - required to run further physics extensions.
+- [ ] [HDT HighHeels System](http://www.nexusmods.com/skyrim/mods/36213) - modifies the height of different footwear.
+- [ ] [HDT Breast And Butt Physics - TBBP BBP Supported](http://www.nexusmods.com/skyrim/mods/54044) - add some sexy physics.
+- [ ] [HDT Equipment](http://www.nexusmods.com/skyrim/mods/57408) - moving slings and sheathes. Add the lanterns as well.
 
 ## Odds and Ends
 
-* [Fores New Idles in Skyrim](https://www.nexusmods.com/skyrim/mods/11811) - idle animations.
-* [NetImmerse Override](https://www.nexusmods.com/skyrim/mods/37481) - runtime shader overrides.
-* [Realistic Ragdolls and Force](https://www.nexusmods.com/skyrim/mods/601) - ragdoll movement.
-* [XP32 Maximum Skeleton Extended](https://www.nexusmods.com/skyrim/mods/68000) - skeleton improvements.
+- [ ] [Fores New Idles in Skyrim](https://www.nexusmods.com/skyrim/mods/11811) - idle animations.
+- [ ] [NetImmerse Override](https://www.nexusmods.com/skyrim/mods/37481) - runtime shader overrides.
+- [ ] [Realistic Ragdolls and Force](https://www.nexusmods.com/skyrim/mods/601) - ragdoll movement.
+- [ ] [XP32 Maximum Skeleton Extended](https://www.nexusmods.com/skyrim/mods/68000) - skeleton improvements.
 
 ## NPC's
 
-* [Bijin Warmaidens](http://www.nexusmods.com/skyrim/mods/40038) - adds an array of female Bijin characters.
-* [Bijin Wives](http://www.nexusmods.com/skyrim/mods/63473) - permits marriage to Bijin women.
-* [Bijin NPCs](http://www.nexusmods.com/skyrim/mods/71054) - adds other Bijin NPC's.
-* [The Ordinary Women](http://www.nexusmods.com/skyrim/mods/70547) - improved NPC women models.
-* [NPCs of Dibella](http://www.nexusmods.com/skyrim/mods/27427) - various thematic NPC's.
-* [Seranaholic](http://www.nexusmods.com/skyrim/mods/38326) - Serana overhaul.
-* [Skyrim Ladies - Aela and Astrid](http://www.nexusmods.com/skyrim/mods/69467) - overhaul Aela and Astrid.
-* [Avelyn or Elisif](http://www.nexusmods.com/skyrim/mods/63903) - a new standalone follower Elisif.
-* [Males of Skyrim](http://www.nexusmods.com/skyrim/mods/61937) - awesome and lore-friendly males.
-* [The Men of Winter](http://www.nexusmods.com/skyrim/mods/74376) - more well-done men models.
-* [Vilkas and Farkas by Netherwalk](http://www.nexusmods.com/skyrim/mods/21540) - two male followers.
-* [TDN Improved Lucien - Spectral Assassin Replacer](http://www.nexusmods.com/skyrim/mods/62835) - replacement for Lucien.
-* [Inhabitants of Skyrim - NPC Overhaul](http://www.nexusmods.com/skyrim/mods/23755) - make many NPC's more attractive.
-* [Improved Bards](http://www.nexusmods.com/skyrim/mods/56599) - changes appearance of bards.
-* [The College of Winterhold - NPC Improvement](http://www.nexusmods.com/skyrim/mods/67359) - college of Winterhold NPC improvements.
+- [ ] [Bijin Warmaidens](http://www.nexusmods.com/skyrim/mods/40038) - adds an array of female Bijin characters.
+- [ ] [Bijin Wives](http://www.nexusmods.com/skyrim/mods/63473) - permits marriage to Bijin women.
+- [ ] [Bijin NPCs](http://www.nexusmods.com/skyrim/mods/71054) - adds other Bijin NPC's.
+- [ ] [The Ordinary Women](http://www.nexusmods.com/skyrim/mods/70547) - improved NPC women models.
+- [ ] [NPCs of Dibella](http://www.nexusmods.com/skyrim/mods/27427) - various thematic NPC's.
+- [ ] [Seranaholic](http://www.nexusmods.com/skyrim/mods/38326) - Serana overhaul.
+- [ ] [Skyrim Ladies - Aela and Astrid](http://www.nexusmods.com/skyrim/mods/69467) - overhaul Aela and Astrid.
+- [ ] [Avelyn or Elisif](http://www.nexusmods.com/skyrim/mods/63903) - a new standalone follower Elisif.
+- [ ] [Males of Skyrim](http://www.nexusmods.com/skyrim/mods/61937) - awesome and lore-friendly males.
+- [ ] [The Men of Winter](http://www.nexusmods.com/skyrim/mods/74376) - more well-done men models.
+- [ ] [Vilkas and Farkas by Netherwalk](http://www.nexusmods.com/skyrim/mods/21540) - two male followers.
+- [ ] [TDN Improved Lucien - Spectral Assassin Replacer](http://www.nexusmods.com/skyrim/mods/62835) - replacement for Lucien.
+- [ ] [Inhabitants of Skyrim - NPC Overhaul](http://www.nexusmods.com/skyrim/mods/23755) - make many NPC's more attractive.
+- [ ] [Improved Bards](http://www.nexusmods.com/skyrim/mods/56599) - changes appearance of bards.
+- [ ] [The College of Winterhold - NPC Improvement](http://www.nexusmods.com/skyrim/mods/67359) - college of Winterhold NPC improvements.
 
