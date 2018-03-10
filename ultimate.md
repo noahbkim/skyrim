@@ -211,12 +211,36 @@ I would recommend queueing a bunch of the listed mods in advance so they downloa
 * [ ] [A Quality World Map and Solstheim Map - With Roads](http://www.nexusmods.com/skyrim/mods/4929) - standard world map improvements.
 * [ ] [Better Falskaar and Wyrmstooth Map With Roads](http://www.nexusmods.com/skyrim/mods/51339) - mod maps.
 
+## ENB
+
+ENBSeries is a set of graphics modifications that helps improve performance and allow for advanced graphical modification. To use this, first:
+
+* [ ] Disable antialiasing, anisotropic filtering, and FXAA
+* [ ] Download the ENB files from [here](http://enbdev.com/download_mod_tesskyrim.html).
+* [ ] Copy over the `d3d9.dll` and `enbhost.exe` from the wrapper folder to `[skyrim root]`.
+
+Then, add the ENB configuration to boost memory usage using VRAM. 
+
+* [ ] Modify or add the following fields in the `[skyrim data]/SkyrimPrefs.ini`:
+
+```
+bFloatPointRenderTarget=1 
+bTreesReceiveShadows=1
+bDrawLandShadows=1
+bShadowsOnGrass=1
+iMultiSample=0 
+iMaxAnisotropy=1 
+bFXAAEnabled=0
+```
+
+* [ ] Copy the ENBoost `enblocal.ini` preset from [CTD and Memory patch ENBoost](https://www.nexusmods.com/skyrim/mods/73618) into `[skyrim root]`.
+
 ## Even More Environment
 
-* [ ] [Ultimate HD Torch](http://www.nexusmods.com/skyrim/mods/28060) - better torches.
-
+- [ ] [Ultimate HD Torch](http://www.nexusmods.com/skyrim/mods/28060) - better torches.
 - [ ] [Smoking Torches and Candles](http://www.nexusmods.com/skyrim/mods/35819) - smoke for torches and candles.
 - [ ] [Birds of Skyrim](http://www.nexusmods.com/skyrim/mods/17723) - better birds.
+
 - [ ] [Birds of Skyrim - Ruhadre Patch v1.1](http://www.nexusmods.com/skyrim/mods/72833) - patch for birds, make sure to get the one that is USLEEP compatible.
 - [ ] [Enhanced Blood Textures](http://www.nexusmods.com/skyrim/mods/60) - better blood.
 - [ ] [Deadly Spell Impacts](http://www.nexusmods.com/skyrim/mods/2947) - textures for ground impacts from spells.
