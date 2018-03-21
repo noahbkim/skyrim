@@ -4,78 +4,6 @@ This document is essentially as a simpler version of a guide by SinitarGaming av
 It is intended for the final version of the original (not the Special Edition) Steam distribution of Skyrim with all DLC, and is based on the Nexus Mod Manager. 
 This guide was last updated on March 7th, 2018.
 
-## Prerequisite Software
-
-- [Skyrim Script Extender](http://skse.silverlock.org/) - an external script loader used for almost all mods, plugins, and tweaks. Can be conveniently installed via Steam. 
-- [LOOT](https://loot.github.io/) - a tool that manages dependencies and plugin load order. Crucial to maintaining stability with large numbers of mods.
-- [TES5edit](http://www.nexusmods.com/skyrim/mods/25859/?) - a plugin manipulation tool that provides mod comparison and conflict detection/resolution.
-- [Save Game Script Cleaner](http://www.nexusmods.com/skyrim/mods/52363/?) - tool for managing plugin assets and scripts in save game data. Useful if you want to remove mods during a game, but not necessary.
-- [Windows Texture Viewer](http://www.nvidia.com/object/windows_texture_viewer.html) - a small viewer for `.dds` texture files that allows you to compare conflicting assets between mods.
-- [Notepad++](https://notepad-plus-plus.org/) - my personally recommended editor for all text-based files, such as `.ini` and `.txt`. This will be highly convenient because of how useless Windows is when it comes to file extensions. 
-
-## File locations
-
-There are two main file system locations used by Skyrim. 
-The first is in your Steam install directory, and its path will be referred to as the **[skyrim root]**. 
-It is generally located here:
-
-```
-C:\Program Files (x86)\Steam\steamapps\common\Skyrim\
-```
-
-The Skyrim root directory can also be under a custom Steam directory if you've modified the installation path in your Steam preferences (useful if you want to use separate storage media for your game files, for example). 
-My installation is located here:
-
-```
-E:\Steam\steamapps\common\Skyrim\
-```
-
-The other important directory is where your local Skyrim files are stored. 
-This will be referred to as the **[skyrim data]**, and is typically located here (replacing `Me` with your Windows username):
-
-```
-C:\Users\Me\Documents\My Games\Skyrim
-```
-
-## SKSE Setup
-
-Make sure you have an `SKSE.ini` file located in the `[skyrim root]/Data/skse` directory. 
-If you do not, make an empty one (I recommend that you use Notepad++). 
-Open the `SKSE.ini` file and paste the following lines:
-
-```ini
-[General]
-ClearInvalidRegistrations=1
-EnableDiagnostics=1
-
-[Display]
-iTintTextureResolution=2048
-```
-
-## Crash Fixes
-
-Install the [Crash Fixes](http://www.nexusmods.com/skyrim/mods/72725/?) mod. 
-Edit `[skyrim root]/Data/skse/plugins/CrashFixPlugin.ini` and modify the following options:
-
-```ini
-UseOSAllocators=1
-CustomMemoryBlock=1
-MemoryInfoConsole=1
-```
-
-To make sure memory block load isn't too high, run Skyrim and open the developer console. 
-Check if any of the listed loads are above 85-90%, and if so, increase the `CustomMemoryBlockTotalSizeMb` value in the `CrashFixPlugin.ini` in increments of 10 until they aren't. 
-Then, download this [SKSE plugin pre-loader](http://www.nexusmods.com/skyrim/mods/75795/?) and copy the `d3dx9_42.dll` file into your Skyrim root directory. 
-This will allow SKSE to execute plugins, such as CrashFixes, prior to loading the game. 
-
-Finally, install the [Safety Load](http://www.nexusmods.com/skyrim/mods/46465/?) mod, which prevents infinite loading screens and other issues related to memory allocation.
-
-## Base Game Cleaning
-
-To clean the base game, open TESVEdit and load the `Skyrim.esm`, `Update.esm`, `Dawnguard.esm`, `HearthFires.esm`, and `Dragonborn.esm` files.
-Right click on each and select  `Apply Filter for Cleaning`.
-Then, right click again and select `Remove "Identical to Master" records`.
-
 ## Initial Mods
 
 * [ ] [Unofficial Skyrim Legendary Edition Patch](http://www.nexusmods.com/skyrim/mods/71214/?) - an enormous Skyrim patch that attempts to fix most of the common bugs currently persistent in the game.
@@ -83,15 +11,6 @@ Then, right click again and select `Remove "Identical to Master" records`.
 * [ ] [Alternate Start](http://www.nexusmods.com/skyrim/mods/9557/?) - adds different starting scenarios and skips the cutscene in the beginning.
 * [ ] [SkyUI](http://www.nexusmods.com/skyrim/mods/3863/?) - an actually usable inventory control interface.
 * [ ] [iHUD](http://www.nexusmods.com/skyrim/mods/3222/?) - an configurable immersive in-game overlay.
-
-## Modding Methodology
-
-As a note, don't try to install all of the listed mods without intermediate testing, as there's a much lower chance of it working that way. 
-Instead, install a group of mods, sort them with LOOT, and test Skyrim to make sure everything works. 
-Also make sure to keep track of your progress as you go. 
-
-Another thing to think about is how long it will take for some mods to download. 
-I would recommend queueing a bunch of the listed mods in advance so they download while you're configuring earlier ones (especially texture mods).
 
 ## Graphics and Meshes
 
@@ -361,12 +280,12 @@ bFXAAEnabled=0
 ## DynDOLOD
 
 - [ ] [Dynamic Distant Objects LOD - DynDOLOD](http://www.nexusmods.com/skyrim/mods/59721) - a tool for generating and rendering distant objects. 
-  Essentially, this mod makes everything far away look like it should. 
-  However, I had some difficulties installing it due to Windows' awful file system capitalization ambiguity. 
-  The main issue with the mod is that the resources core files are packaged inconsistently: while some files are meant for Data/Textures, others are meant for Data/textures. 
-  However, there can only be one such folder, and any files intended to be moved to the other are ignored with no warning. 
-  To fix this without simply copying the files and directories over, I downloaded the manual installation package, renamed the offending file paths according to what was already in my Data folder, and repackaged it as a zip file. 
-  I then installed that mod from my local file system. Make sure to follow the actual instruction manual. 
+    Essentially, this mod makes everything far away look like it should. 
+    However, I had some difficulties installing it due to Windows' awful file system capitalization ambiguity. 
+    The main issue with the mod is that the resources core files are packaged inconsistently: while some files are meant for Data/Textures, others are meant for Data/textures. 
+    However, there can only be one such folder, and any files intended to be moved to the other are ignored with no warning. 
+    To fix this without simply copying the files and directories over, I downloaded the manual installation package, renamed the offending file paths according to what was already in my Data folder, and repackaged it as a zip file. 
+    I then installed that mod from my local file system. Make sure to follow the actual instruction manual. 
 
 ## Player
 
@@ -388,7 +307,6 @@ bFXAAEnabled=0
 - [ ] [Brows](http://www.nexusmods.com/skyrim/mods/30411) - eyebrow options.
 - [ ] [Smile in HD](http://www.nexusmods.com/skyrim/mods/34346) - better mouth textures.
 - [ ] [Enhanced Camera](https://www.nexusmods.com/skyrim/mods/57859) - more immersive first-person camera.
-- [ ] [RaceMenu](https://www.nexusmods.com/skyrim/mods/29624) - overhauls character creation menu.
 - [ ] [Improved closefaced helmets](https://www.nexusmods.com/skyrim/mods/15927) - see player's face under helmets.
 
 ## Lanterns
@@ -408,9 +326,7 @@ bFXAAEnabled=0
 ## Odds and Ends
 - [ ] [NetImmerse Override](https://www.nexusmods.com/skyrim/mods/37481) - runtime shader overrides.
 - [ ] [Double Cursor Fix](https://www.nexusmods.com/skyrim/mods/36125) - fixes double cursor when alt-tabbing.
-- [ ] [Skyrim Project Optimiation](https://www.nexusmods.com/skyrim/mods/32505) - FPS boost, **get No Homes Full**.
-- [ ] [Skyrim Performance PLUS](https://www.nexusmods.com/skyrim/mods/6387) - more FPS boost.
-- [ ] [HIALGOBOOST GPU Upgrade](https://www.nexusmods.com/skyrim/mods/15123) - even more FPS boost.
+- [ ] [Skyrim Project Optimization](https://www.nexusmods.com/skyrim/mods/32505) - FPS boost, **get No Homes Full**.
 - [ ] [Multiple Floors Sandboxing](https://www.nexusmods.com/skyrim/mods/57376) - changes sandboxes so NPCs move floors.
 - [ ] [Better Dialogue Controls](https://www.nexusmods.com/skyrim/mods/27371) - improves selecting dialogue options.
 - [ ] [Better MessageBox Controls](https://www.nexusmods.com/skyrim/mods/28170) - allows keyboard controls in message boxes.
@@ -450,7 +366,6 @@ bFXAAEnabled=0
 ## Gameplay
 - [ ] [Open Cities](https://www.nexusmods.com/skyrim/mods/8058) - makes major cities part of Skyrim.
 - [ ] [Sneak Tools](https://www.nexusmods.com/skyrim/mods/19447) - stealth overhaul.
-- [ ] [Lock Overhaul](https://www.nexusmods.com/skyrim/mods/29979) - better lockpicking.
 - [ ] [Auto Unequip Ammo](https://www.nexusmods.com/skyrim/mods/10753) - unequips quiver when out of combat.
 - [ ] [Deadly Dragons](https://www.nexusmods.com/skyrim/mods/3829) - customize difficulty of dragon fights.
 - [ ] [Dibella's Compulsion](https://www.nexusmods.com/skyrim/mods/30072) - adds spell to remove clothing.
@@ -481,6 +396,20 @@ bFXAAEnabled=0
 ## Wildlife
 - [ ] [Immersive Creatures](https://www.nexusmods.com/skyrim/mods/24913) - adds many new creatures.
 - [ ] [Hunting in Skyrim](https://www.nexusmods.com/skyrim/mods/18866) - completely new hunting system.
+
+## Need Links
+
+* [ ] Bury The Dead
+* [ ] Deadly Dragons
+* [ ] The Dance of Death
+* [ ] Convenient Horses
+* [ ] Lockpicking Interface Redone
+* [ ] Fishing In Skyrim
+* [ ] Placeable Statics
+* [ ] Unique Uniques
+* [ ] ENB Water on Horse Trough and Blacksmith Forge
+* [ ] Living Takes Time
+* [ ] Whetstones
 
 ## Install Last
 - [ ] [Dual Sheath Redux](https://www.nexusmods.com/skyrim/mods/34155) - sheaths left-hand weapon.
