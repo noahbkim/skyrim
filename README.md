@@ -8,11 +8,16 @@ Here is my current project:
 
 ## Prerequisite Software
 
-- [Skyrim Script Extender](http://skse.silverlock.org/) - an external script loader used for almost all mods, plugins, and tweaks. Can be conveniently installed via Steam. 
-- [LOOT](https://loot.github.io/) - a tool that manages dependencies and plugin load order. Crucial to maintaining stability with large numbers of mods.
+- [Skyrim Script Extender](http://skse.silverlock.org/) - an external script loader used for almost all mods, plugins, and tweaks. 
+  Can be conveniently installed via Steam. 
+- [LOOT](https://loot.github.io/) - a tool that manages dependencies and plugin load order. 
+  Crucial to maintaining stability with large numbers of mods.
+  Also useful for checking if there are unmet dependencies.
 - [TES5edit](http://www.nexusmods.com/skyrim/mods/25859/?) - a plugin manipulation tool that provides mod comparison and conflict detection/resolution.
-- [Save Game Script Cleaner](http://www.nexusmods.com/skyrim/mods/52363/?) - tool for managing plugin assets and scripts in save game data. Useful if you want to remove mods during a game, but not necessary.
+- [Save Game Script Cleaner](http://www.nexusmods.com/skyrim/mods/52363/?) - tool for managing plugin assets and scripts in save game data. 
+  Useful if you want to remove mods during a game, but not necessary.
 - [Windows Texture Viewer](http://www.nvidia.com/object/windows_texture_viewer.html) - a small viewer for `.dds` texture files that allows you to compare conflicting assets between mods.
+This is also useful if you want to be able to compare the aesthetic of conflicting mod packs.
 - [Notepad++](https://notepad-plus-plus.org/) - my personally recommended editor for all text-based files, such as `.ini` and `.txt`. This will be highly convenient because of how useless Windows is when it comes to file extensions. 
 
 ## File locations
